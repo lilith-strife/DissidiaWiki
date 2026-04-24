@@ -1,0 +1,419 @@
+[
+  {
+    "rank": "B",
+    "id": "acc-power-wrist",
+    "name": "Power Wrist",
+    "japaneseName": "パワーリスト",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "effects": [
+      "ATK +1"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "Trade with Power Sand ×2 & 800 Gil"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "id": "acc-magic-wrist",
+    "name": "Magic Wrist",
+    "japaneseName": "マジックリスト",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "effects": [
+      "Magic Damage +5%"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "Trade with Magic Sand ×2 & 800 Gil"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "id": "acc-battle-voice",
+    "name": "Battle Voice",
+    "japaneseName": "バトルボイス",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "effects": [
+      "EX Gauge filled +15% at start of Battle"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "Trade with Amplification Fragment ×3, Amplification Crystal ×2 & 1,300 Gil"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "id": "acc-excise",
+    "name": "Excellence",
+    "japaneseName": "Excise",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "effects": [
+      "EX Gauge filled +25% at start of Battle"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "Trade with Battle Voice ×1, Amplification Pearl ×2 & 1,300 Gil"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "id": "acc-elixir",
+    "name": "Elixir",
+    "japaneseName": "エリクサー",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "effects": [
+      "Regeneration amount +15%"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "Trade with Recovery Fragment ×3, Recovery Crystal ×2, Book of Life ×3 & 1,400 Gil"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "id": "acc-aurora",
+    "name": "Aurora",
+    "japaneseName": "オーロラ",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "effects": [
+      "Regeneration amount +20%"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "Trade with Elixir ×1, Recovery Pearl ×2 & 1,400 Gil"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "id": "acc-white-choker",
+    "name": "White Choker",
+    "japaneseName": "白のチョーカー",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "effects": [
+      "EX Force absorption amount +25%"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "Trade with Blessed Sand ×2 & 800 Gil"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "id": "acc-pearl-necklace",
+    "name": "Pearl Necklace",
+    "japaneseName": "真珠のネックレス",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "effects": [
+      "EX Force absorption amount +50%"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "Trade with Blessed Fragment ×3, Blessed Crystal ×2, Book of Life ×5 & 1,300 Gil"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "id": "acc-lucky-ring",
+    "name": "Lucky Ring",
+    "japaneseName": "ラッキーリング",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "effects": [
+      "LUK +4",
+      "Summon recovery rate +1"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "Trade with Yellow Drop ×1, Fortune Sand ×2 & 1,500 Gil"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "id": "acc-fortune-ring",
+    "name": "Fortune Ring",
+    "japaneseName": "フォーチュンリング",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "effects": [
+      "LUK +8",
+      "Summon recovery rate +2"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "Trade with Yellow Gem ×2, Fortune Fragment ×2, Fortune Crystal ×1 & 1,300 Gil"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "id": "acc-growth-egg",
+    "name": "Growth Egg",
+    "japaneseName": "グロウエッグ",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "effects": [
+      "EXP +20%"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "Trade with Growth Seed ×1, Chocobo Feather ×1, Chocobo Tail ×1 & 1,500 Gil"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "id": "acc-chocobo-fur",
+    "name": "Chocobo Fur",
+    "japaneseName": "チョコボの毛",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "effects": [
+      "EXP +20%",
+      "30% chance it'll break after Battle"
+    ],
+    "acquisition": [
+      {
+        "method": "Play Plan",
+        "detail": "1st or 5th Play Plan reward"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "id": "acc-chocobo-feather",
+    "name": "Chocobo Feather",
+    "japaneseName": "チョコボの羽",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "effects": [
+      "EXP +50%",
+      "30% chance it'll break after Battle"
+    ],
+    "acquisition": [
+      {
+        "method": "Play Plan",
+        "detail": "2nd or 5th Play Plan reward"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "id": "acc-chocobo-tail",
+    "name": "Chocobo Tail",
+    "japaneseName": "チョコボの尾",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "effects": [
+      "EXP +100%",
+      "30% chance it'll break after Battle"
+    ],
+    "acquisition": [
+      {
+        "method": "Play Plan",
+        "detail": "3rd or 5th Play Plan reward"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "id": "acc-100-hp",
+    "name": "100% HP",
+    "japaneseName": "HPが100%",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Player HP at 100%"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Complete various missions"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "id": "acc-hp-above-80",
+    "name": "HP >80%",
+    "japaneseName": "HPが80%以上",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Player HP above 80%"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Complete various missions"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "id": "acc-hp-below-40",
+    "name": "HP <40%",
+    "japaneseName": "HPが40%以下",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Player HP below 40%"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Complete various missions"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "id": "acc-opponent-hp-1",
+    "name": "Opponent HP 1",
+    "japaneseName": "HPが1",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Opponent HP is at 1"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Complete various missions"
+      }
+    ]
+  },
+  {
+    "rank": "C",
+    "id": "raw-mithril",
+    "name": "Mithril",
+    "japaneseName": "ミスリル",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "effects": [
+      "LUK +1"
+    ],
+    "acquisition": [
+      {
+        "method": "Colosseum",
+        "detail": "Prize in Colosseum: Beginner Course"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "id": "raw-gold",
+    "name": "Gold",
+    "japaneseName": "ゴールド",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "effects": [
+      "LUK +2"
+    ],
+    "acquisition": [
+      {
+        "method": "Colosseum",
+        "detail": "Prize in Colosseum: Beginner & Falcon Course"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "id": "raw-diamond",
+    "name": "Diamond",
+    "japaneseName": "ダイヤ",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "effects": [
+      "LUK +3"
+    ],
+    "acquisition": [
+      {
+        "method": "Colosseum",
+        "detail": "Prize in Colosseum: Falcon Course"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "id": "raw-crystal",
+    "name": "Crystal",
+    "japaneseName": "クリスタル",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "effects": [
+      "LUK +4"
+    ],
+    "acquisition": [
+      {
+        "method": "Colosseum",
+        "detail": "Prize in Colosseum: Falcon & Invincible Course"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "id": "raw-adamantite",
+    "name": "Adamantite",
+    "japaneseName": "アダマンタイト",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "effects": [
+      "LUK +4"
+    ],
+    "acquisition": [
+      {
+        "method": "DP Stage Bonus",
+        "detail": "3 DP Stage Bonus in Inward Chaos (1x only)"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "id": "raw-rosetta-stone",
+    "name": "Rosetta Stone",
+    "japaneseName": "ロゼッタ石",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "effects": [
+      "LUK +4"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "Trade with Wind Stone ×1, Water Stone ×1, Life Stone ×1 & 1,500 Gil"
+      }
+    ]
+  }
+]

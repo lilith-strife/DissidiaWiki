@@ -1,0 +1,223 @@
+[
+  {
+    "rank": 1,
+    "id": "summon-ifrit",
+    "name": "Ifrit",
+    "japaneseName": "イフリート",
+    "category": "Summon",
+    "subcategory": "Auto Type",
+    "effects": [
+      "Damages 10% HP of the encountered Opponent"
+    ],
+    "acquisition": [
+      {
+        "method": "Story",
+        "detail": "Pick up the Red Orb in Destiny Odyssey I Chapter 3"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "summon-shiva",
+    "name": "Shiva",
+    "japaneseName": "シヴァ",
+    "category": "Summon",
+    "subcategory": "Auto Type",
+    "effects": [
+      "Cuts opponent's Brave base value and Brave Points by half for a limited time"
+    ],
+    "acquisition": [
+      {
+        "method": "Story",
+        "detail": "Pick up the Red Orb in Destiny Odyssey X Chapter 3"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "summon-odin",
+    "name": "Odin",
+    "japaneseName": "オーディーン",
+    "category": "Summon",
+    "subcategory": "Auto Type",
+    "effects": [
+      "50% chance to instantly Break opponent's Brave Points"
+    ],
+    "acquisition": [
+      {
+        "method": "Story",
+        "detail": "Pick up the Red Orb in Shade Impulse - Chapter 1-3"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "summon-alexander",
+    "name": "Alexander",
+    "japaneseName": "アレクサンダー",
+    "category": "Summon",
+    "subcategory": "Auto Type",
+    "effects": [
+      "Lock your current Brave Points"
+    ],
+    "acquisition": [
+      {
+        "method": "Story",
+        "detail": "Pick up the Red Orb in Destiny Odyssey IX Chapter 3"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "summon-leviathan",
+    "name": "Leviathan",
+    "japaneseName": "リヴァイアサン",
+    "category": "Summon",
+    "subcategory": "Auto Type",
+    "effects": [
+      "Reduces opponent's Brave Points by 20 gradually over a limited time"
+    ],
+    "acquisition": [
+      {
+        "method": "Story",
+        "detail": "Pick up the Red Orb in Destiny Odyssey III Chapter 3"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "summon-bahamut",
+    "name": "Bahamut",
+    "japaneseName": "バハムート",
+    "category": "Summon",
+    "subcategory": "Manual Type",
+    "effects": [
+      "Damages 20% HP of the encountered Opponent"
+    ],
+    "acquisition": [
+      {
+        "method": "Story",
+        "detail": "Pick up the Red Orb in Destiny Odyssey VI Chapter 3"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "summon-moogle",
+    "name": "Moogle",
+    "japaneseName": "モグ",
+    "category": "Summon",
+    "subcategory": "Manual Type",
+    "effects": [
+      "Restores 30% of your HP"
+    ],
+    "acquisition": [
+      {
+        "method": "Colosseum",
+        "detail": "Prize in Colosseum: Beginner Course"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "summon-chocobo",
+    "name": "Chocobo",
+    "japaneseName": "チョコボ",
+    "category": "Summon",
+    "subcategory": "Manual Type",
+    "effects": [
+      "Increases your Movement Speed"
+    ],
+    "acquisition": [
+      {
+        "method": "Colosseum",
+        "detail": "Prize in Colosseum: Beginner Course"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "summon-carbuncle",
+    "name": "Carbuncle",
+    "japaneseName": "カーバンクル",
+    "category": "Summon",
+    "subcategory": "Manual Type",
+    "effects": [
+      "Reflects opponent's Magic Attacks"
+    ],
+    "acquisition": [
+      {
+        "method": "Colosseum",
+        "detail": "Prize in Colosseum: Falcon Course"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "summon-fenrir",
+    "name": "Fenrir",
+    "japaneseName": "フェンリル",
+    "category": "Summon",
+    "subcategory": "Manual Type",
+    "effects": [
+      "Increases your Movement Speed significantly"
+    ],
+    "acquisition": [
+      {
+        "method": "Colosseum",
+        "detail": "Prize in Colosseum: Falcon Course"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "summon-siren",
+    "name": "Siren",
+    "japaneseName": "セイレーン",
+    "category": "Summon",
+    "subcategory": "Manual Type",
+    "effects": [
+      "Lowers opponent's Attack"
+    ],
+    "acquisition": [
+      {
+        "method": "Colosseum",
+        "detail": "Prize in Colosseum: Invincible Course"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "summon-atomix",
+    "name": "Atomix",
+    "japaneseName": "アトミック",
+    "category": "Summon",
+    "subcategory": "Manual Type",
+    "effects": [
+      "Damages 30% HP of the encountered Opponent"
+    ],
+    "acquisition": [
+      {
+        "method": "Colosseum",
+        "detail": "Prize in Colosseum: Ultimate Course"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "summon-omega",
+    "name": "Omega",
+    "japaneseName": "オメガ",
+    "category": "Summon",
+    "subcategory": "Manual Type",
+    "effects": [
+      "Ultimate attack - damages 50% HP of the encountered Opponent"
+    ],
+    "acquisition": [
+      {
+        "method": "Colosseum",
+        "detail": "Prize in Colosseum: Ultimate Course"
+      }
+    ]
+  }
+]

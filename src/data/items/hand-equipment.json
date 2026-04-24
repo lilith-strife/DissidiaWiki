@@ -1,0 +1,294 @@
+[
+  {
+    "rank": 1,
+    "id": "shield-broken",
+    "name": "Broken Shield",
+    "japaneseName": "割れた盾",
+    "category": "Hand Equipment",
+    "subcategory": "Shield",
+    "stats": {
+      "DEF": -8
+    },
+    "level": 1,
+    "characters": [
+      "Squall",
+      "Firion",
+      "Cloud",
+      "Warrior of Light",
+      "Cecil",
+      "Tidus",
+      "Garland",
+      "Golbez",
+      "Ex Death",
+      "Sephiroth",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Item Drop",
+        "detail": "Item Drop from \"Common\" Opponent Pawns in Story Mode"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "shield-buckler",
+    "name": "Buckler",
+    "japaneseName": "バックラー",
+    "category": "Hand Equipment",
+    "subcategory": "Shield",
+    "stats": {
+      "DEF": 5
+    },
+    "level": 1,
+    "characters": [
+      "Squall",
+      "Firion",
+      "Cloud",
+      "Warrior of Light",
+      "Cecil",
+      "Tidus",
+      "Garland",
+      "Golbez",
+      "Ex Death",
+      "Sephiroth",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "1,000 Gil"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "shield-shell",
+    "name": "Shell Shield",
+    "japaneseName": "シェルシールド",
+    "category": "Hand Equipment",
+    "subcategory": "Shield",
+    "stats": {
+      "DEF": 5
+    },
+    "level": 1,
+    "effects": [
+      "Crash HP Damage reduction +20%"
+    ],
+    "characters": [
+      "Squall",
+      "Firion",
+      "Cloud",
+      "Warrior of Light",
+      "Cecil",
+      "Tidus",
+      "Garland",
+      "Golbez",
+      "Ex Death",
+      "Sephiroth",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "Buckler ×1, Fortune Fragment ×1, Transform Powder ×2 & 1,000 Gil"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "shield-iron",
+    "name": "Iron Shield",
+    "japaneseName": "アイアンシールド",
+    "category": "Hand Equipment",
+    "subcategory": "Shield",
+    "stats": {
+      "DEF": 9
+    },
+    "level": 8,
+    "characters": [
+      "Squall",
+      "Firion",
+      "Cloud",
+      "Warrior of Light",
+      "Cecil",
+      "Tidus",
+      "Garland",
+      "Golbez",
+      "Ex Death",
+      "Sephiroth",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "2,000 Gil"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "shield-genji",
+    "name": "Genji Shield",
+    "japaneseName": "源氏盾",
+    "category": "Hand Equipment",
+    "subcategory": "Shield",
+    "stats": {
+      "DEF": 59
+    },
+    "level": 85,
+    "effects": [
+      "Soul of Yamato (1/3)"
+    ],
+    "characters": [
+      "Squall",
+      "Firion",
+      "Cloud",
+      "Warrior of Light",
+      "Cecil",
+      "Tidus",
+      "Garland",
+      "Golbez",
+      "Ex Death",
+      "Sephiroth",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "Taira Shield ×1, Supreme Stone ×5, Chaos Crystal ×2 & 16,240 Gil"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Gilgamesh (Item Drop)"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "shield-ziedrich",
+    "name": "Ziedrich",
+    "japaneseName": "ザイドリッツ",
+    "category": "Hand Equipment",
+    "subcategory": "Shield",
+    "stats": {
+      "DEF": 72
+    },
+    "level": 99,
+    "characters": [
+      "Squall",
+      "Firion",
+      "Cloud",
+      "Warrior of Light",
+      "Cecil",
+      "Tidus",
+      "Garland",
+      "Golbez",
+      "Ex Death",
+      "Sephiroth",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "Protection's Bracelet ×1, Heaven's Jewel ×5 & 31,920 Gil"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Ultros (Item Drop)"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Omega (Item Drop)"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Ninja (Item Drop)"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "bracelet-leather",
+    "name": "Leather Bracelet",
+    "japaneseName": "皮の腕輪",
+    "category": "Hand Equipment",
+    "subcategory": "Bracelet",
+    "stats": {
+      "HP": 62,
+      "DEF": 5
+    },
+    "level": 1,
+    "characters": [
+      "Terra",
+      "Onion Knight",
+      "Bartz",
+      "Zidane",
+      "Shantotto",
+      "Vaan"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "750 Gil"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "bracelet-mithril",
+    "name": "Mithril Bracelet",
+    "japaneseName": "ミスリルの腕輪",
+    "category": "Hand Equipment",
+    "subcategory": "Bracelet",
+    "stats": {
+      "HP": 124,
+      "DEF": 14
+    },
+    "level": 15,
+    "effects": [
+      "Mithril Charm (1/3)"
+    ],
+    "characters": [
+      "Terra",
+      "Onion Knight",
+      "Bartz",
+      "Zidane",
+      "Shantotto",
+      "Vaan"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "Leather Bracelet ×1, Mithril ×2 & 3,020 Gil"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "bracelet-mystile",
+    "name": "Mystile",
+    "japaneseName": "ミスティール",
+    "category": "Hand Equipment",
+    "subcategory": "Bracelet",
+    "stats": {
+      "HP": 290,
+      "DEF": 59
+    },
+    "level": 92,
+    "characters": [
+      "Terra",
+      "Onion Knight",
+      "Bartz",
+      "Zidane",
+      "Shantotto",
+      "Vaan"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "Dragon's Bracelet ×1, Lapis Lazuli ×5, White Gem ×1 & 29,570 Gil"
+      }
+    ]
+  }
+]

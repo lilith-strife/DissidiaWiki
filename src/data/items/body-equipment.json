@@ -1,0 +1,362 @@
+[
+  {
+    "rank": 1,
+    "id": "light-leather",
+    "name": "Leather Armor",
+    "japaneseName": "レザーアーマー",
+    "category": "Body Equipment",
+    "subcategory": "Light Armor",
+    "stats": {
+      "HP": 368
+    },
+    "level": 1,
+    "characters": [
+      "Squall",
+      "Firion",
+      "Cloud",
+      "Cecil",
+      "Warrior of Light",
+      "Onion Knight",
+      "Zidane",
+      "Tidus",
+      "Garland",
+      "Golbez",
+      "Ex Death",
+      "Sephiroth",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "750 Gil"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "light-mithril-vest",
+    "name": "Mithril Vest",
+    "japaneseName": "ミスリルベスト",
+    "category": "Body Equipment",
+    "subcategory": "Light Armor",
+    "stats": {
+      "HP": 872
+    },
+    "level": 22,
+    "effects": [
+      "Mithril Charm (1/3)"
+    ],
+    "characters": [
+      "Squall",
+      "Firion",
+      "Cloud",
+      "Cecil",
+      "Warrior of Light",
+      "Onion Knight",
+      "Zidane",
+      "Tidus",
+      "Garland",
+      "Golbez",
+      "Ex Death",
+      "Sephiroth",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "Leather Armor ×1, Mithril ×2 & 4,540 Gil"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Laguna (Item Drop)"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "light-brigandine",
+    "name": "Brigandine",
+    "japaneseName": "ブリガンダイン",
+    "category": "Body Equipment",
+    "subcategory": "Light Armor",
+    "stats": {
+      "HP": 2717
+    },
+    "level": 99,
+    "effects": [
+      "Crash BRV Damage reduction +40%"
+    ],
+    "characters": [
+      "Squall",
+      "Firion",
+      "Cloud",
+      "Cecil",
+      "Warrior of Light",
+      "Onion Knight",
+      "Zidane",
+      "Tidus",
+      "Garland",
+      "Golbez",
+      "Ex Death",
+      "Sephiroth",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "Vishnu's Vest ×1, One Heart ×5 & 23,940 Gil"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Ninja (Item Drop)"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Wakka (Item Drop)"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Auron (Item Drop)"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "heavy-heavy",
+    "name": "Heavy Armor",
+    "japaneseName": "重鎧",
+    "category": "Body Equipment",
+    "subcategory": "Heavy Armor",
+    "stats": {
+      "HP": 536
+    },
+    "level": 8,
+    "characters": [
+      "Warrior of Light",
+      "Cecil",
+      "Garland",
+      "Golbez",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "1,500 Gil"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "heavy-dragon-mail",
+    "name": "Dragon's Mail",
+    "japaneseName": "ドラゴンメイル",
+    "category": "Body Equipment",
+    "subcategory": "Heavy Armor",
+    "stats": {
+      "HP": 2428
+    },
+    "level": 79,
+    "effects": [
+      "Dragon's Breath (1/3)"
+    ],
+    "characters": [
+      "Warrior of Light",
+      "Cecil",
+      "Garland",
+      "Golbez",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "Demon's Mail ×1, Earth Dragon Skull ×3, Attraction Fragment ×1 & 19,100 Gil"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "heavy-genji-armor",
+    "name": "Genji Armor",
+    "japaneseName": "源氏鎧",
+    "category": "Body Equipment",
+    "subcategory": "Heavy Armor",
+    "stats": {
+      "HP": 2610
+    },
+    "level": 86,
+    "effects": [
+      "Soul of Yamato (1/3)"
+    ],
+    "characters": [
+      "Warrior of Light",
+      "Cecil",
+      "Garland",
+      "Golbez",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "Giant's Armor ×1, Supreme Stone ×5, Chaos Crystal ×2 & 21,560 Gil"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Gilgamesh (Item Drop)"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "clothes-leather",
+    "name": "Leather Clothes",
+    "japaneseName": "皮の服",
+    "category": "Body Equipment",
+    "subcategory": "Clothes",
+    "stats": {
+      "HP": 313
+    },
+    "level": 1,
+    "characters": [
+      "Squall",
+      "Firion",
+      "Cloud",
+      "Terra",
+      "Shantotto",
+      "Onion Knight",
+      "Zidane",
+      "Tidus",
+      "The Emperor",
+      "Cloud of Darkness",
+      "Kefka",
+      "Ultimecia",
+      "Kuja",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "400 Gil"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "clothes-brave-suit",
+    "name": "Brave Suit",
+    "japaneseName": "ブレイブスーツ",
+    "category": "Body Equipment",
+    "subcategory": "Clothes",
+    "stats": {
+      "HP": 2564
+    },
+    "level": 96,
+    "effects": [
+      "BRV Damage reduction +40% in Chase Battle"
+    ],
+    "characters": [
+      "Squall",
+      "Firion",
+      "Cloud",
+      "Terra",
+      "Shantotto",
+      "Onion Knight",
+      "Zidane",
+      "Tidus",
+      "The Emperor",
+      "Cloud of Darkness",
+      "Kefka",
+      "Ultimecia",
+      "Kuja",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "Black Clothes ×1, Bahamut Feather ×5 & 23,590 Gil"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Ming Wu (Item Drop)"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Steiner (Item Drop)"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "robe-robe",
+    "name": "Robe",
+    "japaneseName": "ローブ",
+    "category": "Body Equipment",
+    "subcategory": "Robe",
+    "stats": {
+      "HP": 253,
+      "BRV": 23
+    },
+    "level": 1,
+    "characters": [
+      "Terra",
+      "Shantotto",
+      "The Emperor",
+      "Cloud of Darkness",
+      "Kefka",
+      "Ultimecia",
+      "Kuja"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "750 Gil"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "robe-rainbow",
+    "name": "Rainbow Robe",
+    "japaneseName": "レインボーローブ",
+    "category": "Body Equipment",
+    "subcategory": "Robe",
+    "stats": {
+      "HP": 2308,
+      "BRV": 81
+    },
+    "level": 96,
+    "effects": [
+      "Magic Damage reduction +20%"
+    ],
+    "characters": [
+      "Terra",
+      "Shantotto",
+      "The Emperor",
+      "Cloud of Darkness",
+      "Kefka",
+      "Ultimecia",
+      "Kuja"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "Light Robe ×1, Bahamut Feather ×5 & 23,940 Gil"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Ultros (Item Drop)"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Siegfried (Item Drop)"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Seifer (Item Drop)"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Vivi (Item Drop)"
+      }
+    ]
+  }
+]

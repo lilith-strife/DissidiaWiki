@@ -53,8 +53,20 @@ function App() {
       }
 
       // Category filter
-      if (selectedCategory !== 'all' && item.category !== selectedCategory) {
-        return false
+      if (selectedCategory !== 'all') {
+        const categoryId = selectedCategory.toLowerCase()
+        const itemCategoryLower = item.category ? item.category.toLowerCase() : ''
+        // Handle special cases: 'hand' maps to 'Hand Equipment', etc.
+        const categoryMap = {
+          'weapon': 'weapon',
+          'hand': 'hand equipment',
+          'head': 'head equipment',
+          'body': 'body equipment',
+          'accessory': 'accessory',
+          'summon': 'summon'
+        }
+        const targetCategory = categoryMap[categoryId]
+        if (itemCategoryLower !== targetCategory) return false
       }
 
       // Subcategory filter
@@ -88,8 +100,17 @@ function App() {
       return []
     }
     const subs = new Set()
-    items.filter(i => i.category === selectedCategory).forEach(item => {
-      subs.add(item.subcategory)
+    const categoryMap = {
+      'weapon': 'weapon',
+      'hand': 'hand equipment',
+      'head': 'head equipment',
+      'body': 'body equipment',
+      'accessory': 'accessory',
+      'summon': 'summon'
+    }
+    const targetCategory = categoryMap[selectedCategory.toLowerCase()]
+    items.filter(i => i.category && i.category.toLowerCase() === targetCategory).forEach(item => {
+      if (item.subcategory) subs.add(item.subcategory)
     })
     return Array.from(subs).sort()
   }, [selectedCategory])
@@ -159,10 +180,11 @@ function App() {
             </select>
 
             <div className="level-filter" style={{ display: 'flex', gap: '0.5rem', alignItems: 'center' }}>
+              <span style={{ color: 'var(--text-muted)', whiteSpace: 'nowrap' }}>Level Limit:</span>
               <input
                 type="number"
                 className="filter-select"
-                style={{ width: '70px' }}
+                style={{ width: '90px' }}
                 min="0"
                 max="100"
                 value={minLevel}
@@ -173,7 +195,7 @@ function App() {
               <input
                 type="number"
                 className="filter-select"
-                style={{ width: '70px' }}
+                style={{ width: '90px' }}
                 min="0"
                 max="100"
                 value={maxLevel}

@@ -1,0 +1,209 @@
+[
+  {
+    "rank": 1,
+    "id": "helmet-broken",
+    "name": "Broken Helmet",
+    "japaneseName": "壊れた兜",
+    "category": "Head Equipment",
+    "subcategory": "Helmet",
+    "stats": {
+      "BRV": -37,
+      "DEF": -1
+    },
+    "level": 1,
+    "characters": [
+      "Squall",
+      "Cloud",
+      "Cecil",
+      "Warrior of Light",
+      "Tidus",
+      "Garland",
+      "Golbez",
+      "Ex Death",
+      "Sephiroth",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Item Drop",
+        "detail": "Item Drop from \"Common\" Opponent Pawns in Story Mode"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "helmet-bronze",
+    "name": "Bronze Helm",
+    "japaneseName": "ブロンズヘルム",
+    "category": "Head Equipment",
+    "subcategory": "Helmet",
+    "stats": {
+      "BRV": 37,
+      "DEF": 1
+    },
+    "level": 1,
+    "characters": [
+      "Squall",
+      "Cloud",
+      "Cecil",
+      "Warrior of Light",
+      "Tidus",
+      "Garland",
+      "Golbez",
+      "Ex Death",
+      "Sephiroth",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "780 Gil"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "helmet-genji",
+    "name": "Genji Helmet",
+    "japaneseName": "源氏の兜",
+    "category": "Head Equipment",
+    "subcategory": "Helmet",
+    "stats": {
+      "BRV": 290,
+      "DEF": 1
+    },
+    "level": 99,
+    "effects": [
+      "Soul of Yamato (1/3)"
+    ],
+    "characters": [
+      "Squall",
+      "Cloud",
+      "Cecil",
+      "Warrior of Light",
+      "Tidus",
+      "Garland",
+      "Golbez",
+      "Ex Death",
+      "Sephiroth",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "Taira Helm ×1, Supreme Stone ×5, Chaos Crystal ×2 & 16,240 Gil"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Matoya (Item Drop)"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Gilgamesh (Item Drop)"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "hat-leather",
+    "name": "Leather Hat",
+    "japaneseName": "皮の帽子",
+    "category": "Head Equipment",
+    "subcategory": "Hat",
+    "stats": {
+      "BRV": 48
+    },
+    "level": 1,
+    "characters": [
+      "Squall",
+      "Cloud",
+      "Terra",
+      "Shantotto",
+      "Onion Knight",
+      "Tidus",
+      "The Emperor",
+      "Cloud of Darkness",
+      "Kefka",
+      "Ultimecia",
+      "Kuja",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Shop",
+        "detail": "500 Gil"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "hat-red-cap",
+    "name": "Red Cap",
+    "japaneseName": "レッドキャップ",
+    "category": "Head Equipment",
+    "subcategory": "Hat",
+    "stats": {
+      "BRV": 189
+    },
+    "level": 50,
+    "characters": [
+      "Squall",
+      "Cloud",
+      "Terra",
+      "Shantotto",
+      "Onion Knight",
+      "Tidus",
+      "The Emperor",
+      "Cloud of Darkness",
+      "Kefka",
+      "Ultimecia",
+      "Kuja",
+      "Jecht"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "Triangle Hat ×1, Giant Bird Feather ×1, Transform Powder ×1 & 7,730 Gil"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Ahriman (Item Drop)"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "id": "hat-super-ribbon",
+    "name": "Super Ribbon",
+    "japaneseName": "スーパーリボン",
+    "category": "Head Equipment",
+    "subcategory": "Hat",
+    "stats": {
+      "BRV": 370
+    },
+    "level": 78,
+    "effects": [
+      "Accessory Break Chance -30%"
+    ],
+    "characters": [
+      "Terra",
+      "Shantotto",
+      "Bartz",
+      "Kefka"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "Ribbon ×1, Bahamut Feather ×5, Transform Powder ×99 & 15,430 Gil"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Ultros (Item Drop)"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Siegfried (Item Drop)"
+      }
+    ]
+  }
+]
