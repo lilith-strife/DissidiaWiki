@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/dissidia-items/',
+  base: '/dissidiawiki/',
   build: {
     outDir: 'dist',
     sourcemap: true
