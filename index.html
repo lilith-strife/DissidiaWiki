@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Dissidia Drop Tool</title>
+
+<style>
+body { font-family: Arial; margin: 20px; }
+
+#topPanel {
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+  background: #f7f7f7;
+}
+
+.category { cursor: pointer; font-weight: bold; margin-top: 10px; }
+.subcategory { margin-left: 15px; cursor: pointer; color: #444; }
+.items { margin-left: 30px; display: none; }
+
+.item { cursor: pointer; padding: 2px 0; }
+.item:hover { text-decoration: underline; }
+</style>
+</head>
+
+<body>
+
+<h2>Dissidia Item Finder</h2>
+
+<div id="topPanel">
+  <div><b>Selected Item:</b> <span id="selectedItem">None</span></div>
+  <div><b>Drop Rate:</b> <span id="dropRate">-</span>%</div>
+  <div><b>Info:</b> <span id="farmingNote">Select an item</span></div>
+
+  <hr>
+
+  <label>Luck: <input id="luck" type="number" value="50"></label>
+  <label>Drop Boost Items: <input id="boost" type="number" value="0"></label>
+
+  <br><br>
+  <input id="search" placeholder="Search items..." />
+</div>
+
+<div id="app"></div>
+
+<script>
+// ===== DATA LOADING =====
+let DATA = { weapons: [], hand: [], head: [], body: [] };
+
+async function loadData() {
+  DATA.weapons = await fetch('weapons.json').then(r => r.json());
+  DATA.hand = await fetch('hand_armor.json').then(r => r.json());
+  DATA.head = await fetch('head_armor.json').then(r => r.json());
+  DATA.body = await fetch('body_armor.json').then(r => r.json());
+
+  buildUI();
+}
+
+// ===== RANK TABLE =====
+const RANK_TABLE = {
+  15: { drp: 0.25, rdl: 60 },
+  14: { drp: 0.50, rdl: 50 },
+  13: { drp: 1.00, rdl: 30 },
+  12: { drp: 1.50, rdl: 20 },
+  11: { drp: 2.00, rdl: 14 },
+  10: { drp: 2.50, rdl: 12 },
+  9:  { drp: 3.00, rdl: 10 },
+  8:  { drp: 3.50, rdl: 8 },
+  7:  { drp: 4.00, rdl: 5 }
+};
+
+// ===== DROP CALC =====
+function calculateBDR(luk, rank) {
+  const { drp, rdl } = RANK_TABLE[rank];
+
+  if (luk < rdl) {
+    return 0.2 + ((drp - 0.2) / rdl) * luk;
+  } else {
+    return drp + (luk - rdl) * 0.7;
+  }
+}
+
+function getMultiplier(n) {
+  return 1 + (0.2 * n);
+}
+
+// ===== SELECT ITEM =====
+function selectItem(item) {
+  const luk = +document.getElementById("luck").value;
+  const boost = +document.getElementById("boost").value;
+
+  let base = calculateBDR(luk, item.rank);
+  let final = base * getMultiplier(boost);
+
+  document.getElementById("selectedItem").innerText = item.name;
+  document.getElementById("dropRate").innerText = final.toFixed(2);
+
+  document.getElementById("farmingNote").innerText =
+    `Rank ${item.rank} item — higher rank = higher level Quick Battle enemies required`;
+}
+
+// ===== GROUPING =====
+function groupByType(items) {
+  let map = {};
+  items.forEach(i => {
+    if (!map[i.type]) map[i.type] = [];
+    map[i.type].push(i);
+  });
+  return map;
+}
+
+// ===== UI =====
+function buildCategory(title, items) {
+  const container = document.createElement("div");
+
+  const cat = document.createElement("div");
+  cat.className = "category";
+  cat.innerText = title;
+
+  const sub = document.createElement("div");
+  sub.style.display = "none";
+
+  cat.onclick = () => {
+    sub.style.display = sub.style.display === "none" ? "block" : "none";
+  };
+
+  const grouped = groupByType(items);
+
+  Object.keys(grouped).forEach(type => {
+    const typeDiv = document.createElement("div");
+    typeDiv.className = "subcategory";
+    typeDiv.innerText = type;
+
+    const list = document.createElement("div");
+    list.className = "items";
+
+    typeDiv.onclick = () => {
+      list.style.display = list.style.display === "none" ? "block" : "none";
+    };
+
+    grouped[type].forEach(item => {
+      const el = document.createElement("div");
+      el.className = "item";
+      el.innerText = item.name;
+
+      el.onclick = () => selectItem(item);
+
+      list.appendChild(el);
+    });
+
+    sub.appendChild(typeDiv);
+    sub.appendChild(list);
+  });
+
+  container.appendChild(cat);
+  container.appendChild(sub);
+
+  return container;
+}
+
+// ===== SEARCH =====
+document.addEventListener("input", e => {
+  if (e.target.id !== "search") return;
+
+  const q = e.target.value.toLowerCase();
+
+  document.querySelectorAll(".item").forEach(el => {
+    el.style.display =
+      el.innerText.toLowerCase().includes(q) ? "block" : "none";
+  });
+});
+
+// ===== BUILD =====
+function buildUI() {
+  const app = document.getElementById("app");
+
+  app.appendChild(buildCategory("Weapons", DATA.weapons));
+  app.appendChild(buildCategory("Hand Armor", DATA.hand));
+  app.appendChild(buildCategory("Head Armor", DATA.head));
+  app.appendChild(buildCategory("Body Armor", DATA.body));
+}
+
+loadData();
+</script>
+
+</body>
+</html>
