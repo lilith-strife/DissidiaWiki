@@ -1,12 +1,17 @@
+import { formatRanges, getQuickBattleRoutes } from '../data/quickBattle.js'
+
 function ItemCard({ item }) {
+  const quickBattleRoutes = getQuickBattleRoutes(item)
+
   const getIcon = (category) => {
     const icons = {
-      'Weapon': '⚔️',
+      Weapon: '⚔️',
+      Exclusive: '✦',
       'Hand Equipment': '🛡️',
       'Head Equipment': '⛑️',
       'Body Equipment': '👕',
-      'Accessory': '💍',
-      'Summon': '✨'
+      Accessory: '💍',
+      Summon: '✨'
     }
     return icons[category] || '📦'
   }
@@ -84,6 +89,46 @@ function ItemCard({ item }) {
         </div>
       )}
 
+      {(quickBattleRoutes.length > 0 || item.battleRise) && (
+        <div className="item-guide">
+          <details className="guide-details">
+            <summary className="guide-summary">
+              {quickBattleRoutes.length > 0 ? 'Quick Battle Finder' : 'Battle Rise Finder'}
+            </summary>
+
+            {quickBattleRoutes.length > 0 && (
+              <div className="guide-content">
+                {quickBattleRoutes.map(route => (
+                  <div key={route.id} className="guide-route">
+                    <div className="guide-route-title">
+                      {route.strength} / {route.type}
+                    </div>
+                    <div className="guide-route-levels">
+                      Levels {formatRanges(route.ranges)}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            )}
+
+            {item.battleRise && (
+              <div className="guide-content">
+                <div className="guide-route">
+                  <div className="guide-route-title">Trigger</div>
+                  <div className="guide-route-levels">{item.battleRise.trigger}</div>
+                </div>
+                <div className="guide-route">
+                  <div className="guide-route-title">Guide Values</div>
+                  <div className="guide-route-levels">
+                    LV {item.battleRise.level} / RIS {item.battleRise.ris} / RRL {item.battleRise.rrl}
+                  </div>
+                </div>
+              </div>
+            )}
+          </details>
+        </div>
+      )}
+
       {item.acquisition && item.acquisition.length > 0 && (
         <div className="item-acquisition">
           <div className="acq-label">📍 Acquisition</div>
@@ -101,7 +146,15 @@ function ItemCard({ item }) {
       )}
 
       {item.notes && (
-        <div className="item-notes" style={{ padding: '0.75rem 1.25rem', borderTop: '1px solid var(--border)', fontSize: '0.75rem', color: 'var(--text-muted)' }}>
+        <div
+          className="item-notes"
+          style={{
+            padding: '0.75rem 1.25rem',
+            borderTop: '1px solid var(--border)',
+            fontSize: '0.75rem',
+            color: 'var(--text-muted)'
+          }}
+        >
           📝 {item.notes}
         </div>
       )}

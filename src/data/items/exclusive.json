@@ -1,0 +1,1795 @@
+[
+  {
+    "rank": 1,
+    "name": "Revolver",
+    "japaneseName": "リボルバー",
+    "category": "Exclusive",
+    "subcategory": "Squall",
+    "stats": {
+      "ATK": 4
+    },
+    "level": 1,
+    "effects": [
+      "Can only be equipped by Squall"
+    ],
+    "acquisition": [
+      {
+        "method": "Treasure Chest",
+        "detail": "Common Treasure Chest in Destiny Odyssey VIII"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "name": "Buster Sword",
+    "japaneseName": "バスターソード",
+    "category": "Exclusive",
+    "subcategory": "Cloud",
+    "stats": {
+      "ATK": 5
+    },
+    "level": 1,
+    "effects": [
+      "Can only be equipped by Cloud"
+    ],
+    "acquisition": [
+      {
+        "method": "Treasure Chest",
+        "detail": "Common Treasure Chest in Destiny Odyssey VII"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "name": "Sword of Darkness",
+    "japaneseName": "暗黒の剣",
+    "category": "Exclusive",
+    "subcategory": "Cecil",
+    "stats": {
+      "ATK": 4
+    },
+    "level": 1,
+    "effects": [
+      "Power of Darkness (1/4)",
+      "Can only be equipped by Cecil"
+    ],
+    "acquisition": [
+      {
+        "method": "Treasure Chest",
+        "detail": "Common Treasure Chest in Destiny Odyssey IV"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "name": "Crime & Penalty",
+    "japaneseName": "クライム＆ペナルティ",
+    "category": "Exclusive",
+    "subcategory": "Squall",
+    "stats": {
+      "ATK": 63
+    },
+    "level": 92,
+    "effects": [
+      "BRV +30% at start of Battle",
+      "EX Force absorption amount +15%",
+      "Can only be equipped by Squall"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "Lance of Zilt ×1, Goddess Stone ×5, Blessed Crystal ×3 & 29,570 Gil"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "name": "Butterfly Edge",
+    "japaneseName": "バタフライエッジ",
+    "category": "Exclusive",
+    "subcategory": "Cloud",
+    "stats": {
+      "ATK": 65
+    },
+    "level": 92,
+    "effects": [
+      "Physical Damage +15%",
+      "Crash BRV Damage +15%",
+      "Can only be equipped by Cloud"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "Force Eater ×1, Carnage Skull ×5, Hurricane Crystal & 30,390 Gil"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "name": "Wild Rose",
+    "japaneseName": "ワイルドローズ",
+    "category": "Exclusive",
+    "subcategory": "Firion",
+    "stats": {
+      "ATK": 68,
+      "DEF": -1
+    },
+    "level": 100,
+    "effects": [
+      "Crash BRV Damage +40%",
+      "EX Force absorption range +3m",
+      "Can only be equipped by Firion"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "Longinus ×1, Young Man's Dream ×5, Magnetism Pearl ×5 & 31,920 Gil"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "name": "Maduin's Horn",
+    "japaneseName": "マディンの角",
+    "category": "Exclusive",
+    "subcategory": "Terra",
+    "stats": {
+      "BRV": 40,
+      "ATK": 67
+    },
+    "level": 100,
+    "effects": [
+      "EX Mode duration +40%",
+      "EX Core absorption amount +20%",
+      "Can only be equipped by Terra"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "Morning Star ×1, Secret Keeper ×5, Amplification Pearl ×5 & 31,920 Gil"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Ultros (Item Drop)"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "name": "Onion Sword",
+    "japaneseName": "オニオンソード",
+    "category": "Exclusive",
+    "subcategory": "Onion Knight",
+    "stats": {
+      "ATK": 68
+    },
+    "level": 100,
+    "effects": [
+      "BRV +40% at start of Battle",
+      "BRV base value recovery +30%",
+      "Can only be equipped by Onion Knight"
+    ],
+    "acquisition": [
+      {
+        "method": "Trade",
+        "detail": "King's Sword ×1, Onion ×5, Recovery Pearl ×5 & 31,920 Gil"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Ninja (Item Drop)"
+      }
+    ]
+  },
+  {
+    "rank": 1,
+    "name": "Genji Katana",
+    "japaneseName": "源氏太刀",
+    "category": "Exclusive",
+    "subcategory": "Garland",
+    "stats": {
+      "ATK": 68
+    },
+    "level": 100,
+    "effects": [
+      "Can only be equipped by Gilgamesh (NPC)"
+    ],
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Special Friend Card: Gilgamesh (Item Drop)"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Cecil",
+    "name": "Shield of Darkness",
+    "level": 1,
+    "acquisition": [
+      {
+        "method": "Treasure Chest",
+        "detail": "Stage IV-3"
+      }
+    ],
+    "slot": "hand"
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Cecil",
+    "name": "Helm of Darkness",
+    "level": 1,
+    "acquisition": [
+      {
+        "method": "Treasure Chest",
+        "detail": "Stage IV-4"
+      }
+    ],
+    "slot": "head"
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Cecil",
+    "name": "Armor of Darkness",
+    "level": 2,
+    "acquisition": [
+      {
+        "method": "Treasure Chest",
+        "detail": "Stage IV-2"
+      }
+    ],
+    "slot": "body"
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Tidus",
+    "name": "Official Ball",
+    "level": 1,
+    "acquisition": [
+      {
+        "method": "Treasure Chest",
+        "detail": "Stage X-1"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Warrior of Light",
+    "name": "Flame Sword",
+    "level": 50,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Faestone"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Rapier"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XI-1"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Firion",
+    "name": "Lance of Abel",
+    "level": 51,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Wyvern Horn"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Partisan"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XI-1"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Onion Knight",
+    "name": "Tyrfing",
+    "level": 50,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Faestone"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Rapier"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XI-2"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Cecil",
+    "name": "Mythgraven Sword",
+    "level": 50,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Gigas Bones"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Sword of Darkness"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XI-2"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Bartz",
+    "name": "Chocobo Blade",
+    "level": 50,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Faestone"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Rapier"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XI-3"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Terra",
+    "name": "Chain Flail",
+    "level": 50,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Thornwood"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Restorative Staff"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XI-3"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Cloud",
+    "name": "Force Eater",
+    "level": 50,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Gigas Bones"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Buster Sword"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XI-4"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Squall",
+    "name": "Lance of Slit",
+    "level": 50,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Faestone"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Revolver"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XI-4"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Zidane",
+    "name": "Sargatanas",
+    "level": 50,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Orochi's Fang"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Pinwheel"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XI-5"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Tidus",
+    "name": "The Striker",
+    "level": 50,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Orochi's Fang"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Official Ball"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XI-5"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Shantotto",
+    "name": "Jupiter Staff",
+    "level": 50,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Thornwood"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Restorative Staff"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XI-5"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Warrior of Light",
+    "name": "Braveheart",
+    "level": 92,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Magicite of the Goddess"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Flame Sword"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Firion",
+    "name": "Longinus",
+    "level": 93,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Beastlord's Horn"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Lance of Abel"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Onion Knight",
+    "name": "Royal Sword",
+    "level": 92,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Magicite of the Goddess"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Tyrfing"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Cecil",
+    "name": "Sword of Light",
+    "level": 92,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Blood-Darkened Bones"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Mythgraven Sword"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Red Wings"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Bartz",
+    "name": "The Dawn",
+    "level": 92,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Magicite of the Goddess"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Chocobo Blade"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Terra",
+    "name": "Morningstar",
+    "level": 92,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Wood of Anastasis"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Chain Flail"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Zidane",
+    "name": "The Tower",
+    "level": 92,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Beastlord's Fang"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Sargatanas"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Tidus",
+    "name": "Grandslam",
+    "level": 92,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Beastlord's Fang"
+      },
+      {
+        "method": "Base Item",
+        "detail": "The Striker"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Shantotto",
+    "name": "Laevateinn",
+    "level": 92,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Wood of Anastasis"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Jupiter Staff"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Warrior of Light",
+    "name": "Barbarian Sword",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Guiding Light"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Braveheart"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-1"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Cecil",
+    "name": "Lightbringer",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Two Forms"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Sword of Light"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-1"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Cecil",
+    "name": "Obsidian Blade",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Two Forms"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Sword of Light"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Cloud",
+    "name": "Fenrir",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Truth of the Past"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Butterfly Edge"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-2"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Squall",
+    "name": "Lionheart",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Normal Ammunition"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Crime & Penalty"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-2"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Zidane",
+    "name": "Ozma Shard",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Expensive-Looking Ticket"
+      },
+      {
+        "method": "Base Item",
+        "detail": "The Tower"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-3"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Tidus",
+    "name": "World Champion",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Dreams of the Fayth"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Grandslam"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-3"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Wakka"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Shantotto",
+    "name": "Claustrum",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Seething Blood"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Laevateinn"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-3"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Garland",
+    "name": "Ogreslayer",
+    "level": 50,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Gigas Bones"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Francisca"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XII-1"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Death Machine"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "The Emperor",
+    "name": "Diamond Mace",
+    "level": 53,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Ruby"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Wizard Rod"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XII-1"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Cloud of Darkness",
+    "name": "Staff of Thorns",
+    "level": 50,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Thornwood"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Restorative Staff"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XII-2"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Ahriman"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Golbez",
+    "name": "Lilith Rod",
+    "level": 53,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Ruby"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Wizard Rod"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XII-2"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Exdeath",
+    "name": "Guido's Whisker",
+    "level": 50,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Thornwood"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Restorative Staff"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XII-3"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Kefka",
+    "name": "Lamia Flute",
+    "level": 50,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Thornwood"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Gearman's Chime"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XII-3"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Sephiroth",
+    "name": "Masamune Blade",
+    "level": 53,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Wyvern Horn"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Katana"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XII-4"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Ultimecia",
+    "name": "Valkyrie",
+    "level": 53,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Ruby"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Pinwheel"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XII-4"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Kuja",
+    "name": "Punisher",
+    "level": 53,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Ruby"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Wizard Rod"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XII-5"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Jecht",
+    "name": "Kaiser Knuckles",
+    "level": 50,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Orochi Skin"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Sonic Knuckles"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XII-5"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Gabranth",
+    "name": "Evilslayer",
+    "level": 50,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Faestone"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Rapier"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "XII-5"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Garland",
+    "name": "Viking Axe",
+    "level": 92,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Blood-Darkened Bones"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Ogreslayer"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "The Emperor",
+    "name": "Fellsteel Rod",
+    "level": 95,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Lapis Lazuli"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Diamond Mace"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Cloud of Darkness",
+    "name": "Phantasmal Staff",
+    "level": 92,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Wood of Anastasis"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Staff of Thorns"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Golbez",
+    "name": "Rod of Ashura",
+    "level": 95,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Lapis Lazuli"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Lilith Rod"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Exdeath",
+    "name": "Moore Sprig",
+    "level": 92,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Wood of Anastasis"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Guido's Whisker"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Kefka",
+    "name": "Flute of the Fallen",
+    "level": 92,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Wood of Anastasis"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Lamia Flute"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Sephiroth",
+    "name": "Masamune",
+    "level": 95,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Beastlord's Horn"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Masamune Blade"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Ultimecia",
+    "name": "Cardinal",
+    "level": 95,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Lapis Lazuli"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Valkyrie"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Kuja",
+    "name": "Whale Whisker",
+    "level": 95,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Lapis Lazuli"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Punisher"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Jecht",
+    "name": "Sin-Talon",
+    "level": 92,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Milleniantoise Shell"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Kaiser Knuckles"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Gabranth",
+    "name": "Deathbringer",
+    "level": 92,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Magicite of the Goddess"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Evilslayer"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Garland",
+    "name": "Gigant Axe",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Darkness of Transmigration"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Viking Axe"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-3"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "The Emperor",
+    "name": "Malice of Mateus",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Ambitions of Dominion"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Fellsteel Rod"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-3"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Cloud of Darkness",
+    "name": "Darkness Eternal",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Fickle Cloud"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Phantasmal Staff"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-4"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Golbez",
+    "name": "Crystal of Zeromus",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "One Heart"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Rod of Ashura"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-4"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Exdeath",
+    "name": "Staff of Enou",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Power of the Void"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Moore Sprig"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-4"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Kefka",
+    "name": "Mad Dancing",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Smiles of Madness"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Flute of the Fallen"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-4"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Siegfried"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Sephiroth",
+    "name": "One-Winged Angel",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Life of the Planet"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Masamune"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-4"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Ultimecia",
+    "name": "Shooting Star",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Gears of Time"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Cardinal"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-5"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Kuja",
+    "name": "Terra's Legacy",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Death Become"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Whale Whisker"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-5"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Jecht",
+    "name": "Sin-Fang",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Medallion of Glory"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Sin-Talon"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-5"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Gabranth",
+    "name": "Chaos Blade",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Gates of Judgment"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Deathbringer"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-5"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Basch"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Bartz",
+    "name": "Sword of Dorgann",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Radiant Wind"
+      },
+      {
+        "method": "Base Item",
+        "detail": "The Dawn"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-2"
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Warrior of Light",
+    "name": "Lufaine Shield",
+    "level": 78,
+    "slot": "hand",
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Firion",
+    "name": "Lufaine Lance",
+    "level": 79,
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Onion Knight",
+    "name": "Lufaine Wakizashi",
+    "level": 78,
+    "slot": "hand",
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Cecil",
+    "name": "Lufaine Armor",
+    "level": 79,
+    "slot": "body",
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Bartz",
+    "name": "Lufaine Gloves",
+    "level": 78,
+    "slot": "hand",
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Terra",
+    "name": "Lufaine Barrette",
+    "level": 78,
+    "slot": "head",
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Cloud",
+    "name": "Lufaine Edge",
+    "level": 78,
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Squall",
+    "name": "Lufaine Saber",
+    "level": 78,
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Zidane",
+    "name": "Lufaine Dagger",
+    "level": 78,
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Tidus",
+    "name": "Lufaine Pinwheel",
+    "level": 78,
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Shantotto",
+    "name": "Lufaine Staff",
+    "level": 78,
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Garland",
+    "name": "Lufaine Axe",
+    "level": 78,
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "The Emperor",
+    "name": "Lufaine Jacket",
+    "level": 76,
+    "slot": "body",
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Cloud of Darkness",
+    "name": "Lufaine Cap",
+    "level": 78,
+    "slot": "head",
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Golbez",
+    "name": "Lufaine Vest",
+    "level": 78,
+    "slot": "body",
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Exdeath",
+    "name": "Lufaine Rod",
+    "level": 81,
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Kefka",
+    "name": "Lufaine Cantabile",
+    "level": 78,
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Sephiroth",
+    "name": "Lufaine Katana",
+    "level": 81,
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Ultimecia",
+    "name": "Lufaine Robes",
+    "level": 76,
+    "slot": "body",
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Kuja",
+    "name": "Lufaine Bangle",
+    "level": 78,
+    "slot": "hand",
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Jecht",
+    "name": "Lufaine Hand",
+    "level": 78,
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Gabranth",
+    "name": "Lufaine Helm",
+    "level": 78,
+    "slot": "head",
+    "effects": [
+      "The Wisdom of Lufaine (1/4)"
+    ],
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Invincible Course enemy drop (Ancient Equipment)."
+      }
+    ]
+  },
+  {
+    "category": "Exclusive",
+    "subcategory": "Gabranth",
+    "name": "Highwaster",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Gates of Judgment"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Deathbringer"
+      },
+      {
+        "method": "Story Battle",
+        "detail": "IC-5"
+      }
+    ]
+  }
+]

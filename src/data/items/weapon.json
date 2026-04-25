@@ -1,7 +1,6 @@
 [
   {
     "rank": 1,
-    "id": "katana-tachi",
     "name": "Tachi",
     "japaneseName": "太刀",
     "category": "Weapon",
@@ -10,10 +9,6 @@
       "ATK": 5
     },
     "level": 3,
-    "characters": [
-      "Sephiroth",
-      "Garland"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -23,7 +18,6 @@
   },
   {
     "rank": 1,
-    "id": "katana-nodachi",
     "name": "Nodachi",
     "japaneseName": "野太刀",
     "category": "Weapon",
@@ -35,10 +29,6 @@
     "effects": [
       "EX Force absorption range +2m"
     ],
-    "characters": [
-      "Sephiroth",
-      "Garland"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -48,7 +38,6 @@
   },
   {
     "rank": 1,
-    "id": "katana-strike",
     "name": "Strike Katana",
     "japaneseName": "打刀",
     "category": "Weapon",
@@ -57,10 +46,6 @@
       "ATK": 23
     },
     "level": 31,
-    "characters": [
-      "Sephiroth",
-      "Garland"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -70,7 +55,6 @@
   },
   {
     "rank": 1,
-    "id": "katana-war",
     "name": "War Katana",
     "japaneseName": "戦太刀",
     "category": "Weapon",
@@ -82,10 +66,6 @@
     "effects": [
       "Unification (1/4)"
     ],
-    "characters": [
-      "Sephiroth",
-      "Garland"
-    ],
     "acquisition": [
       {
         "method": "DP Stage Bonus",
@@ -95,7 +75,6 @@
   },
   {
     "rank": 1,
-    "id": "katana-chrysanthemum",
     "name": "Chrysanthemum Letter",
     "japaneseName": "菊一文字",
     "category": "Weapon",
@@ -104,10 +83,6 @@
       "ATK": 38
     },
     "level": 53,
-    "characters": [
-      "Sephiroth",
-      "Garland"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -117,7 +92,6 @@
   },
   {
     "rank": 1,
-    "id": "katana-kusanagi",
     "name": "KUSANAGI",
     "japaneseName": "天の叢雲",
     "category": "Weapon",
@@ -128,10 +102,6 @@
     "level": 100,
     "effects": [
       "EX Force absorption range +8m"
-    ],
-    "characters": [
-      "Sephiroth",
-      "Garland"
     ],
     "acquisition": [
       {
@@ -146,7 +116,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-iron",
     "name": "Iron Sword",
     "japaneseName": "鉄の剣",
     "category": "Weapon",
@@ -155,15 +124,6 @@
       "ATK": 5
     },
     "level": 1,
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -173,7 +133,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-mithril",
     "name": "Mithril Sword",
     "japaneseName": "ミスリルソード",
     "category": "Weapon",
@@ -182,15 +141,6 @@
       "ATK": 10
     },
     "level": 8,
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -200,7 +150,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-mithril-plus",
     "name": "Mithril Sword+",
     "japaneseName": "ミスリルソード+",
     "category": "Weapon",
@@ -212,15 +161,6 @@
     "effects": [
       "Mithril Charm (1/3)"
     ],
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -230,7 +170,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-saber",
     "name": "Saber",
     "japaneseName": "サーベル",
     "category": "Weapon",
@@ -239,15 +178,6 @@
       "ATK": 22
     },
     "level": 29,
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -257,7 +187,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-rapier",
     "name": "Rapier",
     "japaneseName": "レイピア",
     "category": "Weapon",
@@ -266,15 +195,6 @@
       "ATK": 27
     },
     "level": 36,
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -284,7 +204,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-gold",
     "name": "Gold Sword",
     "japaneseName": "ゴールドソード",
     "category": "Weapon",
@@ -296,15 +215,6 @@
     "effects": [
       "Gold Charm (1/3)"
     ],
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -314,7 +224,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-ancient",
     "name": "Ancient Sword",
     "japaneseName": "古代の剣",
     "category": "Weapon",
@@ -326,15 +235,6 @@
     "effects": [
       "BRV +20% at start of Battle"
     ],
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -344,7 +244,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-estoc",
     "name": "Estoc",
     "japaneseName": "エストック",
     "category": "Weapon",
@@ -353,15 +252,6 @@
       "ATK": 31
     },
     "level": 43,
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -375,7 +265,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-coral",
     "name": "Coral Sword",
     "japaneseName": "珊瑚の剣",
     "category": "Weapon",
@@ -387,15 +276,6 @@
     "effects": [
       "BRV +20% at start of Battle"
     ],
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -405,7 +285,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-diamond",
     "name": "Diamond Sword",
     "japaneseName": "ダイヤソード",
     "category": "Weapon",
@@ -417,15 +296,6 @@
     "effects": [
       "Diamond Mystery (1/3)"
     ],
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -435,7 +305,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-rune",
     "name": "Rune Blade",
     "japaneseName": "ルーンブレイド",
     "category": "Weapon",
@@ -447,15 +316,6 @@
     "effects": [
       "BRV +30% at start of Battle"
     ],
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -465,7 +325,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-crystal",
     "name": "Crystal Sword",
     "japaneseName": "クリスタルソード",
     "category": "Weapon",
@@ -477,15 +336,6 @@
     "effects": [
       "Crystal Blessing (1/3)"
     ],
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -495,7 +345,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-enhance",
     "name": "Enhance Sword",
     "japaneseName": "エンハンスソード",
     "category": "Weapon",
@@ -507,15 +356,6 @@
     "effects": [
       "BRV +30% at start of Battle"
     ],
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -525,7 +365,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-falchion",
     "name": "Falchion",
     "japaneseName": "ファルシオン",
     "category": "Weapon",
@@ -534,15 +373,6 @@
       "ATK": 54
     },
     "level": 78,
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -552,7 +382,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-dragon-slayer",
     "name": "Dragon Slayer",
     "japaneseName": "ドラゴンスレイヤー",
     "category": "Weapon",
@@ -564,15 +393,6 @@
     "effects": [
       "BRV +40% at start of Battle"
     ],
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -582,7 +402,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-excalipoor",
     "name": "Excalipoor",
     "japaneseName": "エクスカリパー",
     "category": "Weapon",
@@ -594,15 +413,6 @@
     "effects": [
       "Physical Damage -100%"
     ],
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -612,7 +422,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-excalibur",
     "name": "Excalibur",
     "japaneseName": "エクスカリバー",
     "category": "Weapon",
@@ -624,15 +433,6 @@
     "effects": [
       "BRV +50% at start of Battle"
     ],
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -642,7 +442,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-excalibur-ii",
     "name": "Excalibur II",
     "japaneseName": "エクスカリバー",
     "category": "Weapon",
@@ -654,15 +453,6 @@
     "effects": [
       "EXP +100%"
     ],
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Friend Card",
@@ -672,7 +462,6 @@
   },
   {
     "rank": 1,
-    "id": "sword-wyrmhero",
     "name": "Wyrmhero Blade",
     "japaneseName": "トロの剣",
     "category": "Weapon",
@@ -681,15 +470,6 @@
       "ATK": 67
     },
     "level": 99,
-    "characters": [
-      "Warrior of Light",
-      "Firion",
-      "Bartz",
-      "Cloud",
-      "Squall",
-      "Zidane",
-      "Tidus"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -699,7 +479,6 @@
   },
   {
     "rank": 1,
-    "id": "huge-long",
     "name": "Long Sword",
     "japaneseName": "ロングソード",
     "category": "Weapon",
@@ -708,14 +487,6 @@
       "ATK": 5
     },
     "level": 1,
-    "characters": [
-      "Cloud",
-      "Warrior of Light",
-      "Cecil Harvey",
-      "Garland",
-      "Golbez",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -725,7 +496,6 @@
   },
   {
     "rank": 1,
-    "id": "huge-hard-breaker",
     "name": "Hard Breaker",
     "japaneseName": "ハードブレイカー",
     "category": "Weapon",
@@ -737,14 +507,6 @@
     "effects": [
       "Physical Damage +10%"
     ],
-    "characters": [
-      "Cloud",
-      "Warrior of Light",
-      "Cecil Harvey",
-      "Garland",
-      "Golbez",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -754,7 +516,6 @@
   },
   {
     "rank": 1,
-    "id": "huge-great",
     "name": "Great Sword",
     "japaneseName": "グレートソード",
     "category": "Weapon",
@@ -763,14 +524,6 @@
       "ATK": 10
     },
     "level": 8,
-    "characters": [
-      "Cloud",
-      "Warrior of Light",
-      "Cecil Harvey",
-      "Garland",
-      "Golbez",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -780,7 +533,6 @@
   },
   {
     "rank": 1,
-    "id": "huge-zweihander",
     "name": "Zweihander",
     "japaneseName": "ツバイハンダー",
     "category": "Weapon",
@@ -791,14 +543,6 @@
     "level": 15,
     "effects": [
       "Physical Damage +10%"
-    ],
-    "characters": [
-      "Cloud",
-      "Warrior of Light",
-      "Cecil Harvey",
-      "Garland",
-      "Golbez",
-      "Jecht"
     ],
     "acquisition": [
       {
@@ -813,7 +557,6 @@
   },
   {
     "rank": 1,
-    "id": "huge-flamberge",
     "name": "Flamberge",
     "japaneseName": "フランベルジュ",
     "category": "Weapon",
@@ -824,14 +567,6 @@
     "level": 22,
     "effects": [
       "Physical Damage +10%"
-    ],
-    "characters": [
-      "Cloud",
-      "Warrior of Light",
-      "Cecil Harvey",
-      "Garland",
-      "Golbez",
-      "Jecht"
     ],
     "acquisition": [
       {
@@ -846,7 +581,6 @@
   },
   {
     "rank": 1,
-    "id": "huge-claymore",
     "name": "Claymore",
     "japaneseName": "クレイモア",
     "category": "Weapon",
@@ -855,14 +589,6 @@
       "ATK": 23
     },
     "level": 29,
-    "characters": [
-      "Cloud",
-      "Warrior of Light",
-      "Cecil Harvey",
-      "Garland",
-      "Golbez",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -872,7 +598,6 @@
   },
   {
     "rank": 1,
-    "id": "huge-inferno",
     "name": "Inferno Sword",
     "japaneseName": "インフェルノソード",
     "category": "Weapon",
@@ -884,14 +609,6 @@
     "effects": [
       "Physical Damage +10%"
     ],
-    "characters": [
-      "Cloud",
-      "Warrior of Light",
-      "Cecil Harvey",
-      "Garland",
-      "Golbez",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -901,7 +618,6 @@
   },
   {
     "rank": 1,
-    "id": "huge-organics",
     "name": "Organics",
     "japaneseName": "オーガニクス",
     "category": "Weapon",
@@ -913,14 +629,6 @@
     "effects": [
       "Physical Damage +10%"
     ],
-    "characters": [
-      "Cloud",
-      "Warrior of Light",
-      "Cecil Harvey",
-      "Garland",
-      "Golbez",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -930,7 +638,6 @@
   },
   {
     "rank": 1,
-    "id": "huge-apocalypse",
     "name": "Apocalypse",
     "japaneseName": "アポカリプス",
     "category": "Weapon",
@@ -942,14 +649,6 @@
     "effects": [
       "Physical Damage +15%"
     ],
-    "characters": [
-      "Cloud",
-      "Warrior of Light",
-      "Cecil Harvey",
-      "Garland",
-      "Golbez",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -959,7 +658,6 @@
   },
   {
     "rank": 1,
-    "id": "huge-ragnarok",
     "name": "Ragnarok",
     "japaneseName": "ラグナロク",
     "category": "Weapon",
@@ -971,14 +669,6 @@
     "effects": [
       "Physical Damage +25%"
     ],
-    "characters": [
-      "Cloud",
-      "Warrior of Light",
-      "Cecil Harvey",
-      "Garland",
-      "Golbez",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -988,7 +678,6 @@
   },
   {
     "rank": 1,
-    "id": "arm-lesser-glove",
     "name": "Lesser Glove",
     "japaneseName": "レザーグローブ",
     "category": "Weapon",
@@ -998,10 +687,6 @@
       "ATK": 4
     },
     "level": 1,
-    "characters": [
-      "Tidus",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -1011,7 +696,6 @@
   },
   {
     "rank": 1,
-    "id": "arm-metal-knuckle",
     "name": "Metal Knuckle",
     "japaneseName": "メタルナックル",
     "category": "Weapon",
@@ -1021,10 +705,6 @@
       "ATK": 13
     },
     "level": 15,
-    "characters": [
-      "Tidus",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -1034,7 +714,6 @@
   },
   {
     "rank": 1,
-    "id": "arm-dark-claw",
     "name": "Dark Claw",
     "japaneseName": "ダーククロウ",
     "category": "Weapon",
@@ -1047,10 +726,6 @@
     "effects": [
       "BRV Damage +20% in Chase Battle"
     ],
-    "characters": [
-      "Tidus",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -1060,7 +735,6 @@
   },
   {
     "rank": 1,
-    "id": "arm-sonic-knuckle",
     "name": "Sonic Knuckle",
     "japaneseName": "ソニックナックル",
     "category": "Weapon",
@@ -1070,10 +744,6 @@
       "ATK": 27
     },
     "level": 36,
-    "characters": [
-      "Tidus",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -1083,7 +753,6 @@
   },
   {
     "rank": 1,
-    "id": "arm-tiger-fang",
     "name": "Tiger Fang",
     "japaneseName": "タイガーファング",
     "category": "Weapon",
@@ -1096,10 +765,6 @@
     "effects": [
       "BRV Damage +30% in Chase Battle"
     ],
-    "characters": [
-      "Tidus",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -1109,7 +774,6 @@
   },
   {
     "rank": 1,
-    "id": "arm-cats-claw",
     "name": "Cat's Claw",
     "japaneseName": "猫の爪",
     "category": "Weapon",
@@ -1122,10 +786,6 @@
     "effects": [
       "BRV Damage +30% in Chase Battle"
     ],
-    "characters": [
-      "Tidus",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -1135,7 +795,6 @@
   },
   {
     "rank": 1,
-    "id": "arm-god-hand",
     "name": "God Hand",
     "japaneseName": "ゴッドハンド",
     "category": "Weapon",
@@ -1148,10 +807,6 @@
     "effects": [
       "BRV Damage +40% in Chase Battle"
     ],
-    "characters": [
-      "Tidus",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -1161,7 +816,6 @@
   },
   {
     "rank": 1,
-    "id": "arm-premium-heart",
     "name": "Premium Heart",
     "japaneseName": "プレミアムハート",
     "category": "Weapon",
@@ -1173,10 +827,6 @@
     "level": 99,
     "effects": [
       "BRV Damage +50% in Chase Battle"
-    ],
-    "characters": [
-      "Tidus",
-      "Jecht"
     ],
     "acquisition": [
       {
@@ -1191,7 +841,6 @@
   },
   {
     "rank": 1,
-    "id": "dagger-knife",
     "name": "Knife",
     "japaneseName": "ナイフ",
     "category": "Weapon",
@@ -1200,14 +849,6 @@
       "ATK": 3
     },
     "level": 1,
-    "characters": [
-      "Terra",
-      "Onion Knight",
-      "Zidane",
-      "The Emperor",
-      "Ultimecia",
-      "Kuja"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -1217,7 +858,6 @@
   },
   {
     "rank": 1,
-    "id": "dagger-triton",
     "name": "Triton Dagger",
     "japaneseName": "トリトンダガー",
     "category": "Weapon",
@@ -1229,14 +869,6 @@
     "effects": [
       "EX Gauge filled +15% at start of Battle"
     ],
-    "characters": [
-      "Terra",
-      "Onion Knight",
-      "Zidane",
-      "The Emperor",
-      "Ultimecia",
-      "Kuja"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -1246,7 +878,6 @@
   },
   {
     "rank": 1,
-    "id": "dagger-dagger",
     "name": "Dagger",
     "japaneseName": "ダガー",
     "category": "Weapon",
@@ -1255,14 +886,6 @@
       "ATK": 8
     },
     "level": 8,
-    "characters": [
-      "Terra",
-      "Onion Knight",
-      "Zidane",
-      "The Emperor",
-      "Ultimecia",
-      "Kuja"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -1272,7 +895,6 @@
   },
   {
     "rank": 1,
-    "id": "dagger-kukuri",
     "name": "Kukuri",
     "japaneseName": "ククリ",
     "category": "Weapon",
@@ -1281,14 +903,6 @@
       "ATK": 12
     },
     "level": 15,
-    "characters": [
-      "Terra",
-      "Onion Knight",
-      "Zidane",
-      "The Emperor",
-      "Ultimecia",
-      "Kuja"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -1298,7 +912,6 @@
   },
   {
     "rank": 1,
-    "id": "dagger-main-gauche",
     "name": "Main Gauche",
     "japaneseName": "マインゴーシュ",
     "category": "Weapon",
@@ -1309,14 +922,6 @@
     "level": 15,
     "effects": [
       "EX Gauge filled +15% at start of Battle"
-    ],
-    "characters": [
-      "Terra",
-      "Onion Knight",
-      "Zidane",
-      "The Emperor",
-      "Ultimecia",
-      "Kuja"
     ],
     "acquisition": [
       {
@@ -1331,7 +936,6 @@
   },
   {
     "rank": 1,
-    "id": "dagger-mage-masher",
     "name": "Mage Masher",
     "japaneseName": "メイジマッシャー",
     "category": "Weapon",
@@ -1342,14 +946,6 @@
     "level": 22,
     "effects": [
       "EX Gauge filled +15% at start of Battle"
-    ],
-    "characters": [
-      "Terra",
-      "Onion Knight",
-      "Zidane",
-      "The Emperor",
-      "Ultimecia",
-      "Kuja"
     ],
     "acquisition": [
       {
@@ -1364,7 +960,6 @@
   },
   {
     "rank": 1,
-    "id": "dagger-zorlin-shape",
     "name": "Zorlin Shape",
     "japaneseName": "ゾーリンシェイプ",
     "category": "Weapon",
@@ -1376,14 +971,6 @@
     "effects": [
       "EX Gauge filled +30% at start of Battle"
     ],
-    "characters": [
-      "Terra",
-      "Onion Knight",
-      "Zidane",
-      "The Emperor",
-      "Ultimecia",
-      "Kuja"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -1393,7 +980,6 @@
   },
   {
     "rank": 1,
-    "id": "dagger-chicken",
     "name": "Chicken Knife",
     "japaneseName": "チキンナイフ",
     "category": "Weapon",
@@ -1402,14 +988,6 @@
       "ATK": 66
     },
     "level": 99,
-    "characters": [
-      "Terra",
-      "Onion Knight",
-      "Zidane",
-      "The Emperor",
-      "Ultimecia",
-      "Kuja"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -1419,7 +997,6 @@
   },
   {
     "rank": 1,
-    "id": "axe-axe",
     "name": "Axe",
     "japaneseName": "アクス",
     "category": "Weapon",
@@ -1429,13 +1006,6 @@
       "DEF": -2
     },
     "level": 1,
-    "characters": [
-      "Warrior of Light",
-      "Cecil Harvey",
-      "Garland",
-      "Golbez",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -1445,7 +1015,6 @@
   },
   {
     "rank": 1,
-    "id": "axe-slasher",
     "name": "Slasher",
     "japaneseName": "スラッシャー",
     "category": "Weapon",
@@ -1458,13 +1027,6 @@
     "effects": [
       "Crash HP Damage +20%"
     ],
-    "characters": [
-      "Warrior of Light",
-      "Cecil Harvey",
-      "Garland",
-      "Golbez",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -1474,7 +1036,6 @@
   },
   {
     "rank": 1,
-    "id": "axe-giants",
     "name": "Giant's Axe",
     "japaneseName": "巨人の斧",
     "category": "Weapon",
@@ -1488,13 +1049,6 @@
       "Crash HP Damage +40%",
       "Giant's Pride (1/3)"
     ],
-    "characters": [
-      "Warrior of Light",
-      "Cecil Harvey",
-      "Garland",
-      "Golbez",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -1504,7 +1058,6 @@
   },
   {
     "rank": 1,
-    "id": "axe-earth-breaker",
     "name": "Earth Breaker",
     "japaneseName": "アースブレイカー",
     "category": "Weapon",
@@ -1515,13 +1068,6 @@
     "level": 99,
     "effects": [
       "Crash HP Damage +50%"
-    ],
-    "characters": [
-      "Warrior of Light",
-      "Cecil Harvey",
-      "Garland",
-      "Golbez",
-      "Jecht"
     ],
     "acquisition": [
       {
@@ -1536,7 +1082,6 @@
   },
   {
     "rank": 1,
-    "id": "polearm-spear",
     "name": "Spear",
     "japaneseName": "スピア",
     "category": "Weapon",
@@ -1546,11 +1091,6 @@
       "DEF": -1
     },
     "level": 2,
-    "characters": [
-      "Sephiroth",
-      "Garland",
-      "Golbez"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -1560,7 +1100,6 @@
   },
   {
     "rank": 1,
-    "id": "polearm-scorpion",
     "name": "Scorpion",
     "japaneseName": "スコーピオン",
     "category": "Weapon",
@@ -1573,11 +1112,6 @@
     "effects": [
       "Crash BRV Damage +20%"
     ],
-    "characters": [
-      "Sephiroth",
-      "Garland",
-      "Golbez"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -1587,7 +1121,6 @@
   },
   {
     "rank": 1,
-    "id": "polearm-crystal-lance",
     "name": "Crystal Lance",
     "japaneseName": "クリスタルランス",
     "category": "Weapon",
@@ -1599,11 +1132,6 @@
     "level": 65,
     "effects": [
       "Crystal Blessing (1/3)"
-    ],
-    "characters": [
-      "Sephiroth",
-      "Garland",
-      "Golbez"
     ],
     "acquisition": [
       {
@@ -1618,7 +1146,6 @@
   },
   {
     "rank": 1,
-    "id": "polearm-trident",
     "name": "Trident",
     "japaneseName": "トライデント",
     "category": "Weapon",
@@ -1630,11 +1157,6 @@
     "level": 72,
     "effects": [
       "Crash BRV Damage +50%"
-    ],
-    "characters": [
-      "Sephiroth",
-      "Garland",
-      "Golbez"
     ],
     "acquisition": [
       {
@@ -1649,7 +1171,6 @@
   },
   {
     "rank": 1,
-    "id": "rod-rod",
     "name": "Rod",
     "japaneseName": "ロッド",
     "category": "Weapon",
@@ -1660,17 +1181,6 @@
       "DEF": 1
     },
     "level": 3,
-    "characters": [
-      "Terra",
-      "Onion Knight",
-      "Cloud of Darkness",
-      "Golbez",
-      "The Emperor",
-      "Ex Death",
-      "Kefka",
-      "Ultimecia",
-      "Kuja"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -1680,7 +1190,6 @@
   },
   {
     "rank": 1,
-    "id": "rod-full-metal",
     "name": "Full Metal Rod",
     "japaneseName": "フルメタルロッド",
     "category": "Weapon",
@@ -1694,17 +1203,6 @@
     "effects": [
       "Magic Damage +10%"
     ],
-    "characters": [
-      "Terra",
-      "Onion Knight",
-      "Cloud of Darkness",
-      "Golbez",
-      "The Emperor",
-      "Ex Death",
-      "Kefka",
-      "Ultimecia",
-      "Kuja"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -1714,7 +1212,6 @@
   },
   {
     "rank": 1,
-    "id": "rod-nirvana",
     "name": "Nirvana",
     "japaneseName": "ニルヴァーナ",
     "category": "Weapon",
@@ -1726,17 +1223,6 @@
     "level": 99,
     "effects": [
       "EX Mode duration +50%"
-    ],
-    "characters": [
-      "Terra",
-      "Onion Knight",
-      "Cloud of Darkness",
-      "Golbez",
-      "The Emperor",
-      "Ex Death",
-      "Kefka",
-      "Ultimecia",
-      "Kuja"
     ],
     "acquisition": [
       {
@@ -1755,7 +1241,6 @@
   },
   {
     "rank": 1,
-    "id": "staff-staff",
     "name": "Staff",
     "japaneseName": "杖",
     "category": "Weapon",
@@ -1765,17 +1250,6 @@
       "ATK": 3
     },
     "level": 1,
-    "characters": [
-      "Terra",
-      "Onion Knight",
-      "Cloud of Darkness",
-      "Golbez",
-      "The Emperor",
-      "Ex Death",
-      "Kefka",
-      "Ultimecia",
-      "Kuja"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -1785,7 +1259,6 @@
   },
   {
     "rank": 1,
-    "id": "staff-magic",
     "name": "Magic Staff",
     "japaneseName": "魔術の杖",
     "category": "Weapon",
@@ -1798,17 +1271,6 @@
     "effects": [
       "EX Mode duration +20%"
     ],
-    "characters": [
-      "Terra",
-      "Onion Knight",
-      "Cloud of Darkness",
-      "Golbez",
-      "The Emperor",
-      "Ex Death",
-      "Kefka",
-      "Ultimecia",
-      "Kuja"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -1817,239 +1279,126 @@
     ]
   },
   {
-    "rank": 1,
-    "id": "personal-revolver",
-    "name": "Revolver",
-    "japaneseName": "リボルバー",
     "category": "Weapon",
-    "subcategory": "Personal",
-    "stats": {
-      "ATK": 4
-    },
-    "level": 1,
-    "effects": [
-      "Can only be equipped by Squall"
-    ],
-    "characters": [
-      "Squall Leonheart"
-    ],
+    "subcategory": "Dagger",
+    "name": "Admantite Knife",
+    "level": 99,
     "acquisition": [
       {
-        "method": "Treasure Chest",
-        "detail": "Common Treasure Chest in Destiny Odyssey VIII"
+        "method": "Loot",
+        "detail": "Admantite"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Orichalcum"
       }
     ]
   },
   {
-    "rank": 1,
-    "id": "personal-buster-sword",
-    "name": "Buster Sword",
-    "japaneseName": "バスターソード",
     "category": "Weapon",
-    "subcategory": "Personal",
-    "stats": {
-      "ATK": 5
-    },
-    "level": 1,
-    "effects": [
-      "Can only be equipped by Cloud"
-    ],
-    "characters": [
-      "Cloud Strife"
-    ],
+    "subcategory": "Huge Sword",
+    "name": "Nail Bat",
+    "level": 57,
     "acquisition": [
       {
-        "method": "Treasure Chest",
-        "detail": "Common Treasure Chest in Destiny Odyssey VII"
+        "method": "Duel Coliseum",
+        "detail": "Falcon Course - 17 Medals"
       }
     ]
   },
   {
-    "rank": 1,
-    "id": "personal-darkness-sword",
-    "name": "Sword of Darkness",
-    "japaneseName": "暗黒の剣",
     "category": "Weapon",
-    "subcategory": "Personal",
-    "stats": {
-      "ATK": 4
-    },
-    "level": 1,
-    "effects": [
-      "Power of Darkness (1/4)",
-      "Can only be equipped by Cecil"
-    ],
-    "characters": [
-      "Cecil Harvey"
-    ],
-    "acquisition": [
-      {
-        "method": "Treasure Chest",
-        "detail": "Common Treasure Chest in Destiny Odyssey IV"
-      }
-    ]
-  },
-  {
-    "rank": 1,
-    "id": "personal-crime-penalty",
-    "name": "Crime & Penalty",
-    "japaneseName": "クライム＆ペナルティ",
-    "category": "Weapon",
-    "subcategory": "Personal",
-    "stats": {
-      "ATK": 63
-    },
-    "level": 92,
-    "effects": [
-      "BRV +30% at start of Battle",
-      "EX Force absorption amount +15%",
-      "Can only be equipped by Squall"
-    ],
-    "characters": [
-      "Squall Leonheart"
-    ],
-    "acquisition": [
-      {
-        "method": "Trade",
-        "detail": "Lance of Zilt ×1, Goddess Stone ×5, Blessed Crystal ×3 & 29,570 Gil"
-      }
-    ]
-  },
-  {
-    "rank": 1,
-    "id": "personal-butterfly-edge",
-    "name": "Butterfly Edge",
-    "japaneseName": "バタフライエッジ",
-    "category": "Weapon",
-    "subcategory": "Personal",
-    "stats": {
-      "ATK": 65
-    },
-    "level": 92,
-    "effects": [
-      "Physical Damage +15%",
-      "Crash BRV Damage +15%",
-      "Can only be equipped by Cloud"
-    ],
-    "characters": [
-      "Cloud Strife"
-    ],
-    "acquisition": [
-      {
-        "method": "Trade",
-        "detail": "Force Eater ×1, Carnage Skull ×5, Hurricane Crystal & 30,390 Gil"
-      }
-    ]
-  },
-  {
-    "rank": 1,
-    "id": "personal-wild-rose",
-    "name": "Wild Rose",
-    "japaneseName": "ワイルドローズ",
-    "category": "Weapon",
-    "subcategory": "Personal",
-    "stats": {
-      "ATK": 68,
-      "DEF": -1
-    },
+    "subcategory": "Katana",
+    "name": "Piglet's Shinai",
     "level": 100,
-    "effects": [
-      "Crash BRV Damage +40%",
-      "EX Force absorption range +3m",
-      "Can only be equipped by Firion"
-    ],
-    "characters": [
-      "Firion"
-    ],
     "acquisition": [
       {
-        "method": "Trade",
-        "detail": "Longinus ×1, Young Man's Dream ×5, Magnetism Pearl ×5 & 31,920 Gil"
+        "method": "Loot",
+        "detail": "Capricorn Recipe"
+      },
+      {
+        "method": "Loot",
+        "detail": "Tintinabulum"
+      },
+      {
+        "method": "Loot",
+        "detail": "Ultimania"
       }
     ]
   },
   {
-    "rank": 1,
-    "id": "personal-maduins-horn",
-    "name": "Maduin's Horn",
-    "japaneseName": "マディンの角",
     "category": "Weapon",
-    "subcategory": "Personal",
-    "stats": {
-      "BRV": 40,
-      "ATK": 67
-    },
-    "level": 100,
-    "effects": [
-      "EX Mode duration +40%",
-      "EX Core absorption amount +20%",
-      "Can only be equipped by Terra"
-    ],
-    "characters": [
-      "Terra Branford"
-    ],
+    "subcategory": "Staff",
+    "name": "Grimoire of Fire",
+    "level": 99,
     "acquisition": [
       {
-        "method": "Trade",
-        "detail": "Morning Star ×1, Secret Keeper ×5, Amplification Pearl ×5 & 31,920 Gil"
+        "method": "Friend Card",
+        "detail": "Minwu"
+      }
+    ]
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Thrown",
+    "name": "Frying Pan of Love",
+    "level": 29,
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Airship Course - 17 Medals"
       },
       {
         "method": "Friend Card",
-        "detail": "Special Friend Card: Ultros (Item Drop)"
+        "detail": "Transforming Stiltzkin"
       }
     ]
   },
   {
-    "rank": 1,
-    "id": "personal-onion-sword",
-    "name": "Onion Sword",
-    "japaneseName": "オニオンソード",
     "category": "Weapon",
-    "subcategory": "Personal",
-    "stats": {
-      "ATK": 68
-    },
-    "level": 100,
-    "effects": [
-      "BRV +40% at start of Battle",
-      "BRV base value recovery +30%",
-      "Can only be equipped by Onion Knight"
-    ],
-    "characters": [
-      "Onion Knight"
-    ],
+    "subcategory": "Tool",
+    "name": "Autocrossbow",
+    "level": 96,
     "acquisition": [
       {
-        "method": "Trade",
-        "detail": "King's Sword ×1, Onion ×5, Recovery Pearl ×5 & 31,920 Gil"
+        "method": "Loot",
+        "detail": "Hammer"
       },
       {
-        "method": "Friend Card",
-        "detail": "Special Friend Card: Ninja (Item Drop)"
+        "method": "Loot",
+        "detail": "Hero's Bones"
       }
     ]
   },
   {
-    "rank": 1,
-    "id": "personal-genji-katana",
-    "name": "Genji Katana",
-    "japaneseName": "源氏太刀",
     "category": "Weapon",
-    "subcategory": "Personal",
-    "stats": {
-      "ATK": 68
-    },
-    "level": 100,
-    "effects": [
-      "Can only be equipped by Gilgamesh (NPC)"
-    ],
-    "characters": [
-      "Garland"
-    ],
+    "subcategory": "Tool",
+    "name": "Chainsaw",
+    "level": 96,
     "acquisition": [
       {
-        "method": "Friend Card",
-        "detail": "Special Friend Card: Gilgamesh (Item Drop)"
+        "method": "Loot",
+        "detail": "Hammer"
+      },
+      {
+        "method": "Loot",
+        "detail": "Eden Scale"
+      }
+    ]
+  },
+  {
+    "category": "Weapon",
+    "subcategory": "Tool",
+    "name": "Drill",
+    "level": 96,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Hammer"
+      },
+      {
+        "method": "Loot",
+        "detail": "Behemoth Horn"
       }
     ]
   }

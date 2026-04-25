@@ -1,7 +1,6 @@
 [
   {
     "rank": "B",
-    "id": "acc-power-wrist",
     "name": "Power Wrist",
     "japaneseName": "パワーリスト",
     "category": "Accessory",
@@ -18,7 +17,6 @@
   },
   {
     "rank": "B",
-    "id": "acc-magic-wrist",
     "name": "Magic Wrist",
     "japaneseName": "マジックリスト",
     "category": "Accessory",
@@ -35,7 +33,6 @@
   },
   {
     "rank": "A",
-    "id": "acc-battle-voice",
     "name": "Battle Voice",
     "japaneseName": "バトルボイス",
     "category": "Accessory",
@@ -52,7 +49,6 @@
   },
   {
     "rank": "S",
-    "id": "acc-excise",
     "name": "Excellence",
     "japaneseName": "Excise",
     "category": "Accessory",
@@ -69,7 +65,6 @@
   },
   {
     "rank": "S",
-    "id": "acc-elixir",
     "name": "Elixir",
     "japaneseName": "エリクサー",
     "category": "Accessory",
@@ -86,7 +81,6 @@
   },
   {
     "rank": "S",
-    "id": "acc-aurora",
     "name": "Aurora",
     "japaneseName": "オーロラ",
     "category": "Accessory",
@@ -103,7 +97,6 @@
   },
   {
     "rank": "A",
-    "id": "acc-white-choker",
     "name": "White Choker",
     "japaneseName": "白のチョーカー",
     "category": "Accessory",
@@ -120,7 +113,6 @@
   },
   {
     "rank": "S",
-    "id": "acc-pearl-necklace",
     "name": "Pearl Necklace",
     "japaneseName": "真珠のネックレス",
     "category": "Accessory",
@@ -137,7 +129,6 @@
   },
   {
     "rank": "A",
-    "id": "acc-lucky-ring",
     "name": "Lucky Ring",
     "japaneseName": "ラッキーリング",
     "category": "Accessory",
@@ -155,7 +146,6 @@
   },
   {
     "rank": "S",
-    "id": "acc-fortune-ring",
     "name": "Fortune Ring",
     "japaneseName": "フォーチュンリング",
     "category": "Accessory",
@@ -173,7 +163,6 @@
   },
   {
     "rank": "A",
-    "id": "acc-growth-egg",
     "name": "Growth Egg",
     "japaneseName": "グロウエッグ",
     "category": "Accessory",
@@ -190,7 +179,6 @@
   },
   {
     "rank": "S",
-    "id": "acc-chocobo-fur",
     "name": "Chocobo Fur",
     "japaneseName": "チョコボの毛",
     "category": "Accessory",
@@ -208,7 +196,6 @@
   },
   {
     "rank": "S",
-    "id": "acc-chocobo-feather",
     "name": "Chocobo Feather",
     "japaneseName": "チョコボの羽",
     "category": "Accessory",
@@ -226,7 +213,6 @@
   },
   {
     "rank": "S",
-    "id": "acc-chocobo-tail",
     "name": "Chocobo Tail",
     "japaneseName": "チョコボの尾",
     "category": "Accessory",
@@ -244,7 +230,6 @@
   },
   {
     "rank": "S",
-    "id": "acc-100-hp",
     "name": "100% HP",
     "japaneseName": "HPが100%",
     "category": "Accessory",
@@ -262,7 +247,6 @@
   },
   {
     "rank": "B",
-    "id": "acc-hp-above-80",
     "name": "HP >80%",
     "japaneseName": "HPが80%以上",
     "category": "Accessory",
@@ -280,7 +264,6 @@
   },
   {
     "rank": "B",
-    "id": "acc-hp-below-40",
     "name": "HP <40%",
     "japaneseName": "HPが40%以下",
     "category": "Accessory",
@@ -298,7 +281,6 @@
   },
   {
     "rank": "S",
-    "id": "acc-opponent-hp-1",
     "name": "Opponent HP 1",
     "japaneseName": "HPが1",
     "category": "Accessory",
@@ -316,7 +298,6 @@
   },
   {
     "rank": "C",
-    "id": "raw-mithril",
     "name": "Mithril",
     "japaneseName": "ミスリル",
     "category": "Accessory",
@@ -333,7 +314,6 @@
   },
   {
     "rank": "B",
-    "id": "raw-gold",
     "name": "Gold",
     "japaneseName": "ゴールド",
     "category": "Accessory",
@@ -350,7 +330,6 @@
   },
   {
     "rank": "A",
-    "id": "raw-diamond",
     "name": "Diamond",
     "japaneseName": "ダイヤ",
     "category": "Accessory",
@@ -367,7 +346,6 @@
   },
   {
     "rank": "S",
-    "id": "raw-crystal",
     "name": "Crystal",
     "japaneseName": "クリスタル",
     "category": "Accessory",
@@ -384,7 +362,6 @@
   },
   {
     "rank": "S",
-    "id": "raw-adamantite",
     "name": "Adamantite",
     "japaneseName": "アダマンタイト",
     "category": "Accessory",
@@ -401,7 +378,6 @@
   },
   {
     "rank": "S",
-    "id": "raw-rosetta-stone",
     "name": "Rosetta Stone",
     "japaneseName": "ロゼッタ石",
     "category": "Accessory",
@@ -413,6 +389,2582 @@
       {
         "method": "Shop",
         "detail": "Trade with Wind Stone ×1, Water Stone ×1, Life Stone ×1 & 1,500 Gil"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Power Ring",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Red Droplet"
+      },
+      {
+        "method": "Treasure Chest",
+        "detail": "P-5, I-1, VI-3, VII-3"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Hyper Ring",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Impoverished Stiltzkin, Sleeping Stiltzkin, Ahriman, Yuffie, Steiner"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Gaia Ring",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Impoverished Stiltzkin, Sleeping Stiltzkin, Ahriman, Yuffie, Steiner"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Muscle Belt",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Red Droplet"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Champion Belt",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Sleeping Stiltzkin, Wakka, Auron"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Earring",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Blue Droplet"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Star Earring",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Sunken Stiltzkin, Vivi"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Reflect Chain",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "White Droplet"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Reflega Chain",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Dreaming Stiltzkin, Sunken Stiltzkin, Ultros, Shantotto, Gilgamesh"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Booster",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Silver Liquid"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "High-Booster",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Runaway Stiltzkin, Transforming Stiltzkin, Cunning Stiltzkin, Omega"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Sniper Eye",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Blessed Crystal"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Sniper Soul",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Dreaming Stiltzkin, Sunken Stiltzkin, Omega"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Jet Engine",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Locomotion Crystal"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Rocket Engine",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Runaway Stiltzkin, Ultros, Basch"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Guard Ring",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Green Droplet"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Block Ring",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Impoverished Stiltzkin, Wakka, Steiner"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Guardian Ring",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Impoverished Stiltzkin, Sleeping Stiltzkin, Wakka, Steiner"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Protect Earring",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "White Droplet"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Protega Earring",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Dreaming Stiltzkin, Shantotto"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "White Cape",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Blue Droplet"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Black Cape",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Sunken Stiltzkin, Vivi, Seifer"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Angelic Broach",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Yellow Droplet"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Angelic Down",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Runaway Stiltzkin, Transforming Stiltzkin, Cunning Stiltzkin, Behemoth"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Veil of Paling",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Book of Secrets"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Transforming Stiltzkin, Cunning Stiltzkin, Gilgamesh"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Veil of Mysteries",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Book of the Mysterious"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Transforming Stiltzkin, Cunning Stiltzkin, Gilgamesh"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Scapedoll",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Book of Destiny"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Transforming Stiltzkin, Cunning Stiltzkin, Behemoth"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Scapegoat",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Book of Fate"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Transforming Stiltzkin, Cunning Stiltzkin, Behemoth"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Amulet",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Basch, Steiner"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Golden Amulet",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Book of Myths"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Transforming Stiltzkin, Cunning Stiltzkin, Basch, Steiner"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Gravity-Sphere",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Ahriman, Ultros, Gilgamesh, Basch"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Super Gravity-Sphere",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Ahriman, Ultros, Gilgamesh, Basch"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Glass Bead",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Ahriman, Vivi"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Dragonfly Bead",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Book of Eloquence"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Transforming Stiltzkin, Cunning Stiltzkin, Ahriman, Vivi"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Silver Hourglass",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Friend Card",
+        "detail": "Basch"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Golden Hourglass",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Book of Eloquence"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Transforming Stiltzkin, Cunning Stiltzkin, Gilgamesh, Basch"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Pendant",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Victory Pendant",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Book of the Ubermensch"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Transforming Stiltzkin, Cunning Stiltzkin, Gilgamesh"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Zephyr Mantle",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Elven Mantle",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Tough Heart",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Tough Spirit",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Courage Orb",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Courage Element",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Mindbreaker",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Mindcrusher",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Book of Formation"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Angel's Bell",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Archangel's Bell",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Book of Shadows"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Paeon of War",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "March of War",
+    "category": "Accessory",
+    "subcategory": "Normal",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "HP = 50 ~ 70%",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Player HP between 50% and 70%"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "HP = Critical",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Player HP is critical"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "HP < Opponent BRV",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Player HP is below opponent BRV"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "HP Difference > 2000",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "HP gap exceeds 2000"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "HP Difference < 200",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "HP gap is under 200"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "D",
+    "name": "HP = Even",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.1x",
+    "effects": [
+      "Player HP is an even number"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "C",
+    "name": "HP = Multiple of 3",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Player HP is a multiple of 3"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "HP = Multiple of 4",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.3x",
+    "effects": [
+      "Player HP is a multiple of 4"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "HP = Multiple of 5",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.4x",
+    "effects": [
+      "Player HP is a multiple of 5"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "HP = Prime",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Player HP is a prime number"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "BRV > 100%",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Player BRV is above base"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "BRV < 100%",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Player BRV is below base"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "BRV < 30%",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Player BRV is below 30%"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "BRV > Opponent HP",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Player BRV exceeds opponent HP"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "BRV Difference > 1000",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "BRV gap exceeds 1000"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "BRV Difference < 200",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "BRV gap is under 200"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "BRV = No Damage",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Current BRV damage is zero"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "BRV = 0",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Player BRV is 0"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "D",
+    "name": "BRV = Even",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.1x",
+    "effects": [
+      "Player BRV is an even number"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "C",
+    "name": "BRV = Multiple of 3",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Player BRV is a multiple of 3"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "BRV = Multiple of 4",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.3x",
+    "effects": [
+      "Player BRV is a multiple of 4"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "BRV = Multiple of 5",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.4x",
+    "effects": [
+      "Player BRV is a multiple of 5"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "BRV = Prime",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Player BRV is a prime number"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "EX = 100%",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "EX gauge is full"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "EX = 0%",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "EX gauge is empty"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "EX > 70%",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "EX gauge exceeds 70%"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "EX < 30%",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "EX gauge is below 30%"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "EX Core Manifest",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "An EX Core is present"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Summon Used",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Summon has already been used"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Standing in Place",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.3x",
+    "effects": [
+      "Character is standing still"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Moving",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Character is moving"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Using BRV Atk",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Currently using a BRV attack"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Using HP Atk",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Currently using an HP attack"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Receiving Damage",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Currently taking damage"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Guarding",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Currently guarding"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Evading",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Currently evading"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Using Move-Action",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Currently using a move action"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "In Pursuit",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.3x",
+    "effects": [
+      "Currently in pursuit"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "BRV Atk Unconnected",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "BRV attack has not connected"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "HP Atk Unused",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "No HP attack has been used"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "HP Atk Unconnected",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "HP attack has not connected"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Earthbound",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Character is on the ground"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Airborne",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Character is airborne"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Distance < 5m",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Distance to opponent is under 5m"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Distance > 12m",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Distance to opponent exceeds 12m"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Altitude > Opponent",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Higher altitude than opponent"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Altitude < Opponent",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Lower altitude than opponent"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Lv Difference > 20",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Level gap exceeds 20"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Lv Difference < 3",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Level gap is under 3"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Lv < 3",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "2x",
+    "effects": [
+      "Character level is below 3"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Lv = 10 ~ 19",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Character level is 10 to 19"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Lv = 20 ~ 29",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Character level is 20 to 29"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Lv = 30 ~ 39",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Character level is 30 to 39"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Lv = 40 ~ 49",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Character level is 40 to 49"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Lv = 50 ~ 59",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Character level is 50 to 59"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Lv = 60 ~ 69",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Character level is 60 to 69"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Lv = 70 ~ 79",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Character level is 70 to 79"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Lv = 80 ~ 89",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Character level is 80 to 89"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Lv = 90 ~ 99",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Character level is 90 to 99"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "D",
+    "name": "Lv = Even",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.1x",
+    "effects": [
+      "Character level is even"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "C",
+    "name": "Lv = Multiple of 3",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Character level is a multiple of 3"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Lv = Multiple of 4",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Character level is a multiple of 4"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Lv = Multiple of 5",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Character level is a multiple of 5"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Lv = Prime",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Character level is prime"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Opponent HP = 100%",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Opponent HP is full"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Opponent HP = Critical",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Opponent HP is critical"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Player BRV > Opponent HP",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Player BRV exceeds opponent HP"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Opponent BRV > 100%",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Opponent BRV is above base"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Opponent BRV < 100%",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Opponent BRV is below base"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Opponent BRV < 0",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Opponent is in Break"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Opponent BRV < 30%",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Opponent BRV is below 30%"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Player HP < Opponent BRV",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Player HP is below opponent BRV"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Opponent EX = 100%",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Opponent EX gauge is full"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Opponent EX > 70%",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Opponent EX gauge exceeds 70%"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Opponent Summon Used",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Opponent summon has been used"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Opponent Summon Unused",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.5x",
+    "effects": [
+      "Opponent summon has not been used"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Time > 30 Seconds",
+    "category": "Accessory",
+    "subcategory": "Condition",
+    "multiplier": "1.2x",
+    "effects": [
+      "Battle time exceeds 30 seconds"
+    ],
+    "acquisition": [
+      {
+        "method": "Mission",
+        "detail": "Guide mission unlock; see Equipment Guide [VI.iii.B]."
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Desert Boots",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Battle Boots",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Book of Silence"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Heroic Spirit",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Lucky Ring, Guard Ring"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Heroic Quintessence",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Fortune Ring, Block Ring"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "White Droplet",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Treasure: III-5, V-5; Ghost: Sunken Stiltzkin"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Red Droplet",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Treasure: III-1; Ghost: Runaway Stiltzkin"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Orange Droplet",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Treasure: II-5; Ghost: Impoverished Stiltzkin"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Yellow Droplet",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Treasure: III-2; Ghost: Wealthy Stiltzkin"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Green Droplet",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Treasure: IX-3; Ghost: Cunning Stiltzkin"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Blue Droplet",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Treasure: X-4; Ghost: Sleeping Stiltzkin"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Cyan Droplet",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Treasure: V-5; Ghost: Dreaming Stiltzkin"
+      }
+    ]
+  },
+  {
+    "rank": "B",
+    "name": "Purple Droplet",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Treasure: VIII-2; Ghost: Transforming Stiltzkin"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Red Gem",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Ghost: Ultros; RED ID Friendcards"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Orange Gem",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Ghost: Basch; ORG ID Friendcards"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Yellow Gem",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Ghost: Gilgamesh; YEL ID Friendcards"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Green Gem",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Ghost: Steiner; GRE ID Friendcards"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Blue Gem",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Ghost: Shantotto; BLU ID Friendcards"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Cyan Gem",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Ghost: Death Machine, Behemoth; SKY ID Friendcards"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Purple Gem",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Ghost: Ahriman; PUR ID Friendcards"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "White Gem",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Ghost: Yuffie, Laguna; WHI ID Friendcards"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Thermopylae",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Vitality Aloe, Marvelous Aloe"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Attritionist",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Gravity-Sphere, Muscle Belt"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Esper's Mettle",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Gluttony Sword, Attritionist"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Vitality to Courage",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Vitality Aloe, Archangel's Bell, Book of Reminiscence"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Force to Courage",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Tough Spirit, Pearl Necklace, Book of Silence"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Eye for an Eye",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Reflega Chain, Star Earring, Book of Shadows"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Cleaver's Heart",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Bonecrusher's Heart",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Gaia Ring, Fortune Ring, Book of Reminiscence"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Gluttony Sword",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Super Gravity-Sphere, Pearl Necklace, Book of Shadows"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Great Gospel",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Courage Element, Battle Boots, Book of Love"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Iron Curtain",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Veil of Mysteries, Scapegoat, Book of Kings"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Ring of the Wroth",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Sniper Soul, High-Booster, Book of Marvels"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Close to You",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Super Gravity-Sphere, Dragonfly Bead, Book of the Ubermensch"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Center of the World",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Pearl Necklace, Dragonfly Bead, Book of the Heart"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Aggressor's Victory",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Mysterious Aloe, Courage Aloe, Book of Marvels"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Badge of Courage",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Courage Incense, Courage Aloe, Book of Love"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Maneki Neko",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Fortune Ring, Moogle Charm, Book of Kings"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Sturm und Drang",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Champion Belt, High-Booster, Book of Fallacies"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Soul of Thamasa",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Star Earring, Rocket Engine, Book of the Otherworld"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Snowballer",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Elven Mantle, Tough Spirit, Book of Eloquence"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Miracle Juice",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Aquarius Recipe, Rosetta Stone"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Final Conviction",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Final Resolution",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Overcomer",
+    "category": "Accessory",
+    "subcategory": "Independent",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Phoenix Down"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Phoenix Pinion",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Treasure: SI3-2, XI-2, XII-2; Retrievable Treasure: SI2-1, SI3-3, XI-4; Ghost: Cunning Stiltzkin"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Phoenix Down",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Treasure: SI2-4, XI-4, XII-4"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Courage Incense",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Treasure: SI1-1"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Courage Aloe",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Zeranium, Rosemary; Retrievable Treasure: SI1-1, SI2-2, SI3-4"
+      }
+    ]
+  },
+  {
+    "rank": "A",
+    "name": "Mysterious Incense",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Treasure: SI3-5"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Mysterious Aloe",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Bergamot; Retrievable Treasure: SI1-1, SI2-4"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Destruction Incense",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Destruction Aloe",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Camomile; Retrievable Treasure: SI1-2, SI2-5, SI3-5, XII-1"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Perseverance Incense",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Perseverance Aloe",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Clary Sage, Ylang-Ylang; Retrievable Treasure: SI1-4, SI3-1, XI-1, XII-2"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Vitality Incense",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Vitality Aloe",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Tea Tree; Retrievable Treasure: SI1-5, SI3-1, XI-2, XII-3"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Marvelous Incense",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Guide lists no direct acquirement source."
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Marvelous Aloe",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Loot: Yukari, Lemongrass; Retrievable Treasure: SI2-1, SI3-2, XI-3, XII-4"
+      }
+    ]
+  },
+  {
+    "rank": "S",
+    "name": "Lubricant Oil",
+    "category": "Accessory",
+    "subcategory": "Raw",
+    "acquisition": [
+      {
+        "method": "Guide",
+        "detail": "Other: Mognet"
       }
     ]
   }

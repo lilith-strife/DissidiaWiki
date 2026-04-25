@@ -1,7 +1,6 @@
 [
   {
     "rank": 1,
-    "id": "light-leather",
     "name": "Leather Armor",
     "japaneseName": "レザーアーマー",
     "category": "Body Equipment",
@@ -10,21 +9,6 @@
       "HP": 368
     },
     "level": 1,
-    "characters": [
-      "Squall",
-      "Firion",
-      "Cloud",
-      "Cecil",
-      "Warrior of Light",
-      "Onion Knight",
-      "Zidane",
-      "Tidus",
-      "Garland",
-      "Golbez",
-      "Ex Death",
-      "Sephiroth",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -34,7 +18,6 @@
   },
   {
     "rank": 1,
-    "id": "light-mithril-vest",
     "name": "Mithril Vest",
     "japaneseName": "ミスリルベスト",
     "category": "Body Equipment",
@@ -45,21 +28,6 @@
     "level": 22,
     "effects": [
       "Mithril Charm (1/3)"
-    ],
-    "characters": [
-      "Squall",
-      "Firion",
-      "Cloud",
-      "Cecil",
-      "Warrior of Light",
-      "Onion Knight",
-      "Zidane",
-      "Tidus",
-      "Garland",
-      "Golbez",
-      "Ex Death",
-      "Sephiroth",
-      "Jecht"
     ],
     "acquisition": [
       {
@@ -74,7 +42,6 @@
   },
   {
     "rank": 1,
-    "id": "light-brigandine",
     "name": "Brigandine",
     "japaneseName": "ブリガンダイン",
     "category": "Body Equipment",
@@ -85,21 +52,6 @@
     "level": 99,
     "effects": [
       "Crash BRV Damage reduction +40%"
-    ],
-    "characters": [
-      "Squall",
-      "Firion",
-      "Cloud",
-      "Cecil",
-      "Warrior of Light",
-      "Onion Knight",
-      "Zidane",
-      "Tidus",
-      "Garland",
-      "Golbez",
-      "Ex Death",
-      "Sephiroth",
-      "Jecht"
     ],
     "acquisition": [
       {
@@ -122,7 +74,6 @@
   },
   {
     "rank": 1,
-    "id": "heavy-heavy",
     "name": "Heavy Armor",
     "japaneseName": "重鎧",
     "category": "Body Equipment",
@@ -131,13 +82,6 @@
       "HP": 536
     },
     "level": 8,
-    "characters": [
-      "Warrior of Light",
-      "Cecil",
-      "Garland",
-      "Golbez",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -147,7 +91,6 @@
   },
   {
     "rank": 1,
-    "id": "heavy-dragon-mail",
     "name": "Dragon's Mail",
     "japaneseName": "ドラゴンメイル",
     "category": "Body Equipment",
@@ -159,13 +102,6 @@
     "effects": [
       "Dragon's Breath (1/3)"
     ],
-    "characters": [
-      "Warrior of Light",
-      "Cecil",
-      "Garland",
-      "Golbez",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Trade",
@@ -175,7 +111,6 @@
   },
   {
     "rank": 1,
-    "id": "heavy-genji-armor",
     "name": "Genji Armor",
     "japaneseName": "源氏鎧",
     "category": "Body Equipment",
@@ -186,13 +121,6 @@
     "level": 86,
     "effects": [
       "Soul of Yamato (1/3)"
-    ],
-    "characters": [
-      "Warrior of Light",
-      "Cecil",
-      "Garland",
-      "Golbez",
-      "Jecht"
     ],
     "acquisition": [
       {
@@ -207,7 +135,6 @@
   },
   {
     "rank": 1,
-    "id": "clothes-leather",
     "name": "Leather Clothes",
     "japaneseName": "皮の服",
     "category": "Body Equipment",
@@ -216,22 +143,6 @@
       "HP": 313
     },
     "level": 1,
-    "characters": [
-      "Squall",
-      "Firion",
-      "Cloud",
-      "Terra",
-      "Shantotto",
-      "Onion Knight",
-      "Zidane",
-      "Tidus",
-      "The Emperor",
-      "Cloud of Darkness",
-      "Kefka",
-      "Ultimecia",
-      "Kuja",
-      "Jecht"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -241,7 +152,6 @@
   },
   {
     "rank": 1,
-    "id": "clothes-brave-suit",
     "name": "Brave Suit",
     "japaneseName": "ブレイブスーツ",
     "category": "Body Equipment",
@@ -252,22 +162,6 @@
     "level": 96,
     "effects": [
       "BRV Damage reduction +40% in Chase Battle"
-    ],
-    "characters": [
-      "Squall",
-      "Firion",
-      "Cloud",
-      "Terra",
-      "Shantotto",
-      "Onion Knight",
-      "Zidane",
-      "Tidus",
-      "The Emperor",
-      "Cloud of Darkness",
-      "Kefka",
-      "Ultimecia",
-      "Kuja",
-      "Jecht"
     ],
     "acquisition": [
       {
@@ -286,7 +180,6 @@
   },
   {
     "rank": 1,
-    "id": "robe-robe",
     "name": "Robe",
     "japaneseName": "ローブ",
     "category": "Body Equipment",
@@ -296,15 +189,6 @@
       "BRV": 23
     },
     "level": 1,
-    "characters": [
-      "Terra",
-      "Shantotto",
-      "The Emperor",
-      "Cloud of Darkness",
-      "Kefka",
-      "Ultimecia",
-      "Kuja"
-    ],
     "acquisition": [
       {
         "method": "Shop",
@@ -314,7 +198,6 @@
   },
   {
     "rank": 1,
-    "id": "robe-rainbow",
     "name": "Rainbow Robe",
     "japaneseName": "レインボーローブ",
     "category": "Body Equipment",
@@ -326,15 +209,6 @@
     "level": 96,
     "effects": [
       "Magic Damage reduction +20%"
-    ],
-    "characters": [
-      "Terra",
-      "Shantotto",
-      "The Emperor",
-      "Cloud of Darkness",
-      "Kefka",
-      "Ultimecia",
-      "Kuja"
     ],
     "acquisition": [
       {
@@ -356,6 +230,70 @@
       {
         "method": "Friend Card",
         "detail": "Special Friend Card: Vivi (Item Drop)"
+      }
+    ]
+  },
+  {
+    "category": "Body Equipment",
+    "subcategory": "Clothes",
+    "name": "Nidaime Tokko Outfit",
+    "level": 55,
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Falcon Course - 13 Medals"
+      }
+    ]
+  },
+  {
+    "category": "Body Equipment",
+    "subcategory": "Light Armor",
+    "name": "Iron Apron",
+    "level": 29,
+    "acquisition": [
+      {
+        "method": "Duel Coliseum",
+        "detail": "Airship Course - 13 Medals"
+      },
+      {
+        "method": "Friend Card",
+        "detail": "Transforming Stiltzkin"
+      }
+    ]
+  },
+  {
+    "category": "Body Equipment",
+    "subcategory": "Light Armor",
+    "name": "Admantite Vest",
+    "level": 99,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Admantite"
+      },
+      {
+        "method": "Base Item",
+        "detail": "Crystal Armor"
+      }
+    ]
+  },
+  {
+    "category": "Body Equipment",
+    "subcategory": "Heavy Armor",
+    "name": "Bone Mail",
+    "level": 100,
+    "acquisition": [
+      {
+        "method": "Loot",
+        "detail": "Scorpio Recipe"
+      },
+      {
+        "method": "Loot",
+        "detail": "Rosa Acicularis"
+      },
+      {
+        "method": "Loot",
+        "detail": "G.F. Eden"
       }
     ]
   }

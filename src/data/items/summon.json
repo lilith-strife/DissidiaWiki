@@ -1,7 +1,6 @@
 [
   {
     "rank": 1,
-    "id": "summon-ifrit",
     "name": "Ifrit",
     "japaneseName": "イフリート",
     "category": "Summon",
@@ -18,7 +17,6 @@
   },
   {
     "rank": 1,
-    "id": "summon-shiva",
     "name": "Shiva",
     "japaneseName": "シヴァ",
     "category": "Summon",
@@ -35,7 +33,6 @@
   },
   {
     "rank": 1,
-    "id": "summon-odin",
     "name": "Odin",
     "japaneseName": "オーディーン",
     "category": "Summon",
@@ -52,7 +49,6 @@
   },
   {
     "rank": 1,
-    "id": "summon-alexander",
     "name": "Alexander",
     "japaneseName": "アレクサンダー",
     "category": "Summon",
@@ -69,7 +65,6 @@
   },
   {
     "rank": 1,
-    "id": "summon-leviathan",
     "name": "Leviathan",
     "japaneseName": "リヴァイアサン",
     "category": "Summon",
@@ -86,7 +81,6 @@
   },
   {
     "rank": 1,
-    "id": "summon-bahamut",
     "name": "Bahamut",
     "japaneseName": "バハムート",
     "category": "Summon",
@@ -103,7 +97,6 @@
   },
   {
     "rank": 1,
-    "id": "summon-moogle",
     "name": "Moogle",
     "japaneseName": "モグ",
     "category": "Summon",
@@ -120,7 +113,6 @@
   },
   {
     "rank": 1,
-    "id": "summon-chocobo",
     "name": "Chocobo",
     "japaneseName": "チョコボ",
     "category": "Summon",
@@ -137,7 +129,6 @@
   },
   {
     "rank": 1,
-    "id": "summon-carbuncle",
     "name": "Carbuncle",
     "japaneseName": "カーバンクル",
     "category": "Summon",
@@ -154,7 +145,6 @@
   },
   {
     "rank": 1,
-    "id": "summon-fenrir",
     "name": "Fenrir",
     "japaneseName": "フェンリル",
     "category": "Summon",
@@ -171,7 +161,6 @@
   },
   {
     "rank": 1,
-    "id": "summon-siren",
     "name": "Siren",
     "japaneseName": "セイレーン",
     "category": "Summon",
@@ -188,7 +177,6 @@
   },
   {
     "rank": 1,
-    "id": "summon-atomix",
     "name": "Atomix",
     "japaneseName": "アトミック",
     "category": "Summon",
@@ -205,7 +193,6 @@
   },
   {
     "rank": 1,
-    "id": "summon-omega",
     "name": "Omega",
     "japaneseName": "オメガ",
     "category": "Summon",

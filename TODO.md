@@ -1,32 +1,38 @@
 # GitHub Pages Deployment Fix - TODO
 
-- [x] Split items.js into .json files for each category, add "rank" option in the structure, default all exisiting data to 1
-- [ ] Programatically list which characters are assigned to each item based on subcategory
-Sword: WoL Firion OK Cecil Bartz Cloud Squall Tidus Shantotto | Emperor Gabranth
-Dagger: Firion OK Bartz Terra Zidane | Emperor Ultimecia Kuja Gabranth
-Greatsword: WoL Firion Cecil Bartz Cloud | Garland Golbez Jecht Gabranth
-Katana: Firion Bartz | Garland Sephiroth
-Pole: Firion Bartz | Garland Golbez Sephiroth
-Battleaxe: WoL Firion Cecil Bartz | Garland Golbez Jecht
-Rod: Firion OK Bartz Terra Shantotto | Emperor CoD Golbez Exdeath Kefka Ultimecia Kuja
-Staff: Firion OK Bartz Terra Shantotto | Emperor CoD Exdeath Kefka Ultimecia Kuja
-Thrown: Firion OK Bartz Squall Zidane
-Fist: Firion Bartz Tidus | Jecht
-Instrument: Firion Bartz | Kefka Ultimecia
+- [ ] Check each of the following wiki pages for more items
+Wikis/accessory.txt
+Wikis/axe.txt
+Wikis/body.txt
+Wikis/dagger.txt
+Wikis/hand-to-hand.txt
+Wikis/hand.txt
+Wikis/head.txt
+Wikis/instrument.txt
+Wikis/katana.txt
+Wikis/machine.txt
+Wikis/polearm.txt
+Wikis/rod.txt
+Wikis/staff.txt
+Wikis/sword.txt
+Wikis/throwing.txt
+- [ ] add all of the items, as well as their acquisition methods
 
-Wakizashi: Firion OK Bartz Zidane
-Shield: WoL Firion Cecil Bartz Terra Cloud Squall Tidus | Garland Golbez Exdeath Sephiroth Jecht Gabranth
-Armlet: Firion OK Bartz Terra Cloud Squall Zidane Tidus Shantotto | Emperor CoD Kefka Ultimecia Kuja Jecht
-Arm Guard: WoL OK Cecil Bartz Zidane | Garland Golbez Exdeath Sephiroth Gabranth
-
-Hat: Firion OK Bartz Terra Cloud Squall Zidane Tidus Shantotto | Emperor CoD Kefka Ultimecia Kuja Jecht
-Hairpin: OK Bartz Terra Zidane Shantotto | Emperor CoD Kefka Ultimecia Kuja
-Helmet: WoL Firion Cecil Bartz Cloud Squall Tidus | Garland Golbez Exdeath Sephiroth Jecht Gabranth
-Ribbon: Bartz Terra Shantotto | Kefka
-
-Clothes: Firion OK Bartz Terra Cloud Squall Zidane Tidus Shantotto | Emperor CoD Kefka Ultimecia Kuja Jecht
-Robes: Bartz Terra Shantotto | Emperor CoD Kefka Squall Zidane
-Light Armor: WoL Firion OK Cecil Bartz Cloud Squall Zidane Tidus | Garland Golbez Exdeath Sephiroth Jecht Gabranth
-Heavy Armor: WoL Cecil Bartz | Garland Golbez Exdeath Sephiroth Gabranth
-
-Female: Terra Cloud Shantotto | CoD Kefka Ultimecia
+- [ ] add all of the missions instead of vaguely saying "various missions" or referencing the guide
+- [ ] merge items that are the same (excalipur/excalipoor, rainbow robe/nameless robe(rainbow robe))
+- [ ] remove online battle artiact aquisition methods
+- [ ] Remove "trade with" from kusanagi
+- [ ] Fix any shop items that are really trades (power wrist, magic wrist, battle voice, aurora, excellence, elixir, etc)
+- [ ] Change the quick battle acquisition method to be the item drop tag with the text "May drop from enemies in quick battles"
+- [ ] Add the quick battle (item drop) tag to all items that have the quick battle finder on them
+- [ ] Remove the quick battle text from all items that do not have the quick battle finder on them
+- [ ] Update the text of the chocobo fur feather and tail to say only which play plan rewards that item
+- [ ] Update the Women's Equipment items to say how to unlock them (beat SI with Cloud)
+- [ ] Replace loot and base item with trades
+- [ ] Remove the guide tag, most of them are story, treasure, ghost, mission, or trades. Any items that don't have an acquisition method in the guide, reference the accessory.txt file
+- [ ] All items that don't have a level, should be sorted as if their level is 0
+- [ ] Unify acquisition method phrasing
+- [ ] Remove ranks from all items that are not quick battle findable
+- [ ] Change default filtering to go in order of category, then subcategory, then rank
+- [ ] Add limit to how many items may be displayed at once, customizable with a drop down
+- [ ] Add pages in the case of there being more items than are being displayed
